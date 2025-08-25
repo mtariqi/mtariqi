@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Bioinformatics research
 - 📫 How to reach me @ tariqul@scired.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: Wandelust
+- ⚡ Fun fact: Wanderlust
 
 <!---
 mtariqi/mtariqi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
