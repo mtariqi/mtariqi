@@ -13,13 +13,34 @@ I'm a seasoned Data Scientist with a comprehensive background in machine learnin
 
 ### 💼 Technical Expertise
 
-**Languages & Tools**: Python, R, Machine Learning Frameworks, Deep Learning, NLP
+**Programming & Data Science**:
+- **Languages**: Python, R, Bash/Shell Scripting, SQL
+- **ML/DL Frameworks**: TensorFlow, PyTorch, scikit-learn, Keras
+- **Data Analysis**: pandas, NumPy, Matplotlib, Seaborn, ggplot2
+
+**Bioinformatics & Computational Biology**:
+- **Sequence Alignment**: STAR, BWA, Bowtie2, minimap2, HISAT2
+- **Workflow Management**: Nextflow, Snakemake, WDL, CWL
+- **Variant Analysis**: GATK, bcftools, SAMtools, VCFtools, SnpEff, ANNOVAR
+- **RNA-Seq Analysis**: DESeq2, edgeR, Salmon, kallisto, featureCounts
+- **Single-Cell Analysis**: Seurat, Scanpy, Cell Ranger, Monocle
+- **Genomics Tools**: BEDTools, IGV, UCSC Genome Browser, Ensembl
+- **Assembly & QC**: SPAdes, FastQC, MultiQC, Trimmomatic
+- **Structural Variation**: Manta, Delly, Lumpy, CNVkit
+
+**Infrastructure & DevOps**:
+- **Containerization**: Docker, Singularity
+- **Cloud Platforms**: AWS (EC2, S3), Google Cloud Platform
+- **HPC & Cluster Computing**: SLURM, PBS, SGE
+- **Version Control**: Git, GitHub, GitLab
 
 **Specializations**:
 - Genomic variant classification and pathogenic DNA analysis
+- RNA-Seq and transcriptomics analysis pipelines
+- Single-cell genomics and multi-omics integration
 - Medical imaging and clinical research AI/ML projects
+- Workflow automation and reproducible research
 - Brain development reproduction modeling
-- Data science portfolio development
 
 ### 🎓 Education & Location
 
