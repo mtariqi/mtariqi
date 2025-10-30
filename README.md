@@ -14,7 +14,7 @@ I'm a seasoned Data Scientist with a comprehensive background in machine learnin
 ### 💼 Technical Expertise
 
 **Programming & Data Science**:
-- **Languages**: Python, R, Bash/Shell Scripting, SQL
+- **Languages**: Python, R, SAS, Bash/Shell Scripting, SQL
 - **ML/DL Frameworks**: TensorFlow, PyTorch, scikit-learn, Keras
 - **Data Analysis**: pandas, NumPy, Matplotlib, Seaborn, ggplot2
 
