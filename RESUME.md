@@ -1,6 +1,3 @@
-I'll create a professional resume with the badge-based design from your GitHub profile. Here's a complete, badge-enhanced resume in Markdown format that you can use for job applications:
-
-```markdown
 # Md Tariqul Islam
 **AI/ML Engineer | Bioinformatics Researcher | Data Scientist**
 
