@@ -2,7 +2,7 @@
 
 - [x] I'm an **AI/ML Engineer | Bioinformatics Researcher | Data Scientist**  
 - [x] I'm currently working on **AI agents, LLM engineering, and bioinformatics pipelines**  
-- [ ] I'm looking for **full-time opportunities and research collaborations**  
+- [x] I'm looking for **full-time opportunities and research collaborations**  
 
 ---
 
@@ -112,6 +112,39 @@
 
 ---
 
+### 📊 Data Visualization Tools
+
+**Business Intelligence**
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+**Python Visualization**
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+![Plotly Express](https://img.shields.io/badge/Plotly%20Express-3F4F75?style=flat&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+![Bokeh](https://img.shields.io/badge/Bokeh-FF7F0E?style=flat&logo=python&logoColor=white)
+![Altair](https://img.shields.io/badge/Altair-1F77B4?style=flat&logo=python&logoColor=white)
+
+**R Visualization**
+![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=flat&logo=r&logoColor=white)
+![Plotly R](https://img.shields.io/badge/Plotly%20R-3F4F75?style=flat&logo=plotly&logoColor=white)
+![Shiny](https://img.shields.io/badge/Shiny-276DC3?style=flat&logo=r&logoColor=white)
+
+**Interactive Dashboards**
+![Dash](https://img.shields.io/badge/Dash-3F4F75?style=flat&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-00A86B?style=flat&logo=gradio&logoColor=white)
+
+**Web Visualization**
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3.js&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chart.js&logoColor=white)
+
+**Specialized Tools**
+![IGV](https://img.shields.io/badge/IGV-8E44AD?style=flat&logo=microscope&logoColor=white)
+![UCSC Genome Browser](https://img.shields.io/badge/UCSC%20Genome%20Browser-3498DB?style=flat&logo=dna&logoColor=white)
+
+---
 ### 🚀 Featured Projects  
 - **[Genomic Variant Classifier](https://github.com/mtariqi/genomic-variant-classifier)** – ML pipeline for pathogenic DNA variant classification  
 - **[Brain Development Reproduction](https://github.com/mtariqi/developing-brain-reproduction-)** – Computational neuroscience & human brain atlas modeling  
