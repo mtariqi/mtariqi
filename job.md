@@ -58,20 +58,20 @@
 
 **Md Tariqul Islam's GitHub Stats**
 
-**Total Stars Earned:** `★★★★★★★★★★★★★★` **14**  
-![Stars Bar](https://progress-bar.dev/35/?title=Stars&color=yellow&width=300)
+**Total Stars Earned:** 14  
+![14](https://geps.dev/progress/35?dangerColor=800000&warningColor=ff5e00&successColor=00cfe8)
 
-**Total Commits:** `●●●●●●●●●●●●●●●●●●●●●●` **4.6k**  
-![Commits Bar](https://progress-bar.dev/92/?title=Commits&color=green&width=300)
+**Total Commits:** 4.6k  
+![4.6k](https://geps.dev/progress/92?dangerColor=800000&warningColor=ff5e00&successColor=00cfe8)
 
-**Total PRs:** `■■■■■■■■■■■■■■■■■■■■■■■` **717**  
-![PRs Bar](https://progress-bar.dev/72/?title=PRs&color=orange&width=300)
+**Total PRs:** 717  
+![717](https://geps.dev/progress/72?dangerColor=800000&warningColor=ff5e00&successColor=00cfe8)
 
-**Total Issues:** `□□□□□□□□` **8**  
-![Issues Bar](https://progress-bar.dev/8/?title=Issues&color=red&width=300)
+**Total Issues:** 8  
+![8](https://geps.dev/progress/8?dangerColor=800000&warningColor=ff5e00&successColor=00cfe8)
 
-**Contributed to (last year):** `♦♦♦♦♦♦` **6**  
-![Contributions Bar](https://progress-bar.dev/60/?title=Contributions&color=purple&width=300)
+**Contributed to (last year):** 6  
+![6](https://geps.dev/progress/60?dangerColor=800000&warningColor=ff5e00&successColor=00cfe8)
 
 ---
 
