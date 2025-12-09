@@ -2,7 +2,7 @@
 
 - [x] I'm an **AI/ML Engineer | Bioinformatics Researcher | Data Scientist**  
 - [x] I'm currently working on **AI agents, LLM engineering, and bioinformatics pipelines**  
-- [x] I'm looking for **full-time opportunities and research collaborations**  
+- [x] I'm looking for **full-time opportunities in Bioinformatics, Precision Medicine & Pharmaceutical Research**  
 
 ---
 
@@ -15,100 +15,69 @@
 
 ---
 
+### 🔍 Seeking Opportunities In
+
+**🎯 Bioinformatics & Computational Biology**
+![Bioinformatics](https://img.shields.io/badge/Bioinformatics-2ECC71?style=flat&logo=dna&logoColor=white)
+![Genomics](https://img.shields.io/badge/Genomics-3498DB?style=flat&logo=gene&logoColor=white)
+![Transcriptomics](https://img.shields.io/badge/Transcriptomics-9B59B6?style=flat&logo=chart-line&logoColor=white)
+![Proteomics](https://img.shields.io/badge/Proteomics-E74C3C?style=flat&logo=molecule&logoColor=white)
+![Multi-Omics](https://img.shields.io/badge/Multi--Omics-16A085?style=flat&logo=layers&logoColor=white)
+
+**🏥 Precision Medicine & Clinical Research**
+![Precision Medicine](https://img.shields.io/badge/Precision%20Medicine-2980B9?style=flat&logo=hospital&logoColor=white)
+![Cancer Research](https://img.shields.io/badge/Cancer%20Research-E74C3C?style=flat&logo=medical-bag&logoColor=white)
+![Oncology](https://img.shields.io/badge/Oncology-C0392B?style=flat&logo=heart-pulse&logoColor=white)
+![Clinical Genomics](https://img.shields.io/badge/Clinical%20Genomics-8E44AD?style=flat&logo=stethoscope&logoColor=white)
+![Pharmacogenomics](https://img.shields.io/badge/Pharmacogenomics-27AE60?style=flat&logo=pill&logoColor=white)
+
+**💊 Pharmaceutical & Drug Development**
+![Drug Design](https://img.shields.io/badge/Drug%20Design-34495E?style=flat&logo=flask&logoColor=white)
+![Computational Chemistry](https://img.shields.io/badge/Computational%20Chemistry-F39C12?style=flat&logo=chemistry&logoColor=white)
+![Biopharma](https://img.shields.io/badge/Biopharma-2C3E50?style=flat&logo=industry&logoColor=white)
+![Clinical Trials](https://img.shields.io/badge/Clinical%20Trials-1ABC9C?style=flat&logo=clipboard-check&logoColor=white)
+![Drug Discovery](https://img.shields.io/badge/Drug%20Discovery-9B59B6?style=flat&logo=search&logoColor=white)
+
+**🤖 AI/ML in Healthcare**
+![Medical AI](https://img.shields.io/badge/Medical%20AI-FF6F00?style=flat&logo=brain&logoColor=white)
+![Clinical ML](https://img.shields.io/badge/Clinical%20ML-3498DB?style=flat&logo=robot&logoColor=white)
+![Health Informatics](https://img.shields.io/badge/Health%20Informatics-2ECC71?style=flat&logo=chart-bar&logoColor=white)
+![EHR Analytics](https://img.shields.io/badge/EHR%20Analytics-2980B9?style=flat&logo=database&logoColor=white)
+
+**📍 Locations of Interest**
+![Toronto](https://img.shields.io/badge/Toronto-3498DB?style=flat&logo=location&logoColor=white)
+![Remote](https://img.shields.io/badge/Remote%20Work-2ECC71?style=flat&logo=home&logoColor=white)
+![Canada](https://img.shields.io/badge/Canada-FF0000?style=flat&logo=map&logoColor=white)
+![USA](https://img.shields.io/badge/USA-3C3B6E?style=flat&logo=map&logoColor=white)
+
+---
+
 ### 📊 GitHub Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mtariqi&label=PROFILE%20VIEWS&color=blue)
 
 **Md Tariqul Islam's GitHub Stats**
 
-- [x] **Total Stars Earned:** ![Stars](https://img.shields.io/badge/14-yellow)
-- [ ] **Total Commits:** ![Commits](https://img.shields.io/badge/4.6k-green)
-- [ ] **Total PRs:** ![PRs](https://img.shields.io/badge/717-orange)
-- [ ] **Total Issues:** ![Issues](https://img.shields.io/badge/8-red)
-- [ ] **Contributed to (last year):** ![Contributions](https://img.shields.io/badge/6-purple)
+**Total Stars Earned:** 14  
+![14](https://geps.dev/progress/35?dangerColor=800000&warningColor=ff5e00&successColor=00cfe8)
+
+**Total Commits:** 4.6k  
+![4.6k](https://geps.dev/progress/92?dangerColor=800000&warningColor=ff5e00&successColor=00cfe8)
+
+**Total PRs:** 717  
+![717](https://geps.dev/progress/72?dangerColor=800000&warningColor=ff5e00&successColor=00cfe8)
+
+**Total Issues:** 8  
+![8](https://geps.dev/progress/8?dangerColor=800000&warningColor=ff5e00&successColor=00cfe8)
+
+**Contributed to (last year):** 6  
+![6](https://geps.dev/progress/60?dangerColor=800000&warningColor=ff5e00&successColor=00cfe8)
 
 ---
 
 ### 📈 Contribution Graph
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mtariqi&theme=github&hide_border=true&area=true&custom_title=Total%20Contribution%20Graph)
-
----
-
-### 🔬 What I Do  
-- **AI & ML**: Intelligent systems, ML pipelines, and real-world AI applications  
-- **Bioinformatics**: Genomics, medical imaging, drug discovery, and clinical data  
-- **LLM Engineering**: Large language model applications and AI agents  
-- **Data Science**: EHR analytics (DORIS), clinical research, and reproducible workflows  
-
----
-
-### 💻 Tech Stack  
-**Languages & ML**:  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
-![SAS](https://img.shields.io/badge/SAS-0A2E5B?logo=sas&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-
-**Sequence Alignment & Genomics**:  
-![STAR](https://img.shields.io/badge/STAR-2C3E50?logo=gene&logoColor=white)
-![BWA](https://img.shields.io/badge/BWA-8E44AD?logo=dna&logoColor=white)
-![Bowtie2](https://img.shields.io/badge/Bowtie2-27AE60?logo=dna&logoColor=white)
-![minimap2](https://img.shields.io/badge/minimap2-3498DB?logo=search&logoColor=white)
-![HISAT2](https://img.shields.io/badge/HISAT2-E74C3C?logo=magnify&logoColor=white)
-![Genome Sequencing](https://img.shields.io/badge/Genome%20Sequencing-16A085?logo=microscope&logoColor=white)
-
-**Variant Analysis**:  
-![GATK](https://img.shields.io/badge/GATK-2ECC71?logo=shield&logoColor=white)
-![bcftools](https://img.shields.io/badge/bcftools-9B59B6?logo=chart-box&logoColor=white)
-![SAMtools](https://img.shields.io/badge/SAMtools-34495E?logo=toolbox&logoColor=white)
-![SnpEff](https://img.shields.io/badge/SnpEff-E67E22?logo=alert&logoColor=white)
-![ANNOVAR](https://img.shields.io/badge/ANNOVAR-2980B9?logo=annotation&logoColor=white)
-
-**RNA-Seq & Transcriptomics**:  
-![DESeq2](https://img.shields.io/badge/DESeq2-8E44AD?logo=chart-line&logoColor=white)
-![edgeR](https://img.shields.io/badge/edgeR-27AE60?logo=chart-areaspline&logoColor=white)
-![Salmon](https://img.shields.io/badge/Salmon-F39C12?logo=fish&logoColor=white)
-![kallisto](https://img.shields.io/badge/kallisto-3498DB?logo=speedometer&logoColor=white)
-
-**Single-Cell Analysis**:  
-![Seurat](https://img.shields.io/badge/Seurat-2C3E50?logo=cell&logoColor=white)
-![Scanpy](https://img.shields.io/badge/Scanpy-E74C3C?logo=python&logoColor=white)
-![Cell Ranger](https://img.shields.io/badge/Cell%20Ranger-16A085?logo=google&logoColor=white)
-
-**Workflow Management**:  
-![Nextflow](https://img.shields.io/badge/Nextflow-00B2A9?logo=nextflow&logoColor=white)
-![Snakemake](https://img.shields.io/badge/Snakemake-4CAF50?logo=snake&logoColor=white)
-![WDL](https://img.shields.io/badge/WDL-2196F3?logo=workflow&logoColor=white)
-![CWL](https://img.shields.io/badge/CWL-FF9800?logo=settings&logoColor=white)
-
-**Genomics Tools**:  
-![BEDTools](https://img.shields.io/badge/BEDTools-9C27B0?logo=bed&logoColor=white)
-![SPAdes](https://img.shields.io/badge/SPAdes-3F51B5?logo=castle&logoColor=white)
-![FastQC](https://img.shields.io/badge/FastQC-009688?logo=check-circle&logoColor=white)
-![Trimmomatic](https://img.shields.io/badge/Trimmomatic-FF5722?logo=scissors&logoColor=white)
-
-**Structural Variation**:  
-![Manta](https://img.shields.io/badge/Manta-795548?logo=wave&logoColor=white)
-![Delly](https://img.shields.io/badge/Delly-607D8B?logo=link&logoColor=white)
-![CNVkit](https://img.shields.io/badge/CNVkit-9E9E9E?logo=chart-bar&logoColor=white)
-
-**Infrastructure & DevOps**:  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Singularity](https://img.shields.io/badge/Singularity-00A86B?logo=container&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
-![SLURM](https://img.shields.io/badge/SLURM-4CAF50?logo=server&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-
-**Data Analysis**:  
-![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=chart-line&logoColor=white)
 
 ---
 
@@ -140,28 +109,84 @@
 ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3.js&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chart.js&logoColor=white)
 
-**Specialized Tools**
+**Genome Browsers & Bioinformatics Visualization**
 ![IGV](https://img.shields.io/badge/IGV-8E44AD?style=flat&logo=microscope&logoColor=white)
 ![UCSC Genome Browser](https://img.shields.io/badge/UCSC%20Genome%20Browser-3498DB?style=flat&logo=dna&logoColor=white)
+![Ensembl](https://img.shields.io/badge/Ensembl-2ECC71?style=flat&logo=database&logoColor=white)
+![NCBI Genome Workbench](https://img.shields.io/badge/NCBI%20Workbench-27AE60?style=flat&logo=flask&logoColor=white)
+![IGB - Integrated Genome Browser](https://img.shields.io/badge/IGB-9B59B6?style=flat&logo=search&logoColor=white)
+![JBrowse](https://img.shields.io/badge/JBrowse-FF6F00?style=flat&logo=compass&logoColor=white)
+![WashU Epigenome Browser](https://img.shields.io/badge/WashU%20Epigenome-2980B9?style=flat&logo=university&logoColor=white)
+![IGV.js](https://img.shields.io/badge/IGV.js-8E44AD?style=flat&logo=js&logoColor=white)
+![GenomeSpace](https://img.shields.io/badge/GenomeSpace-34495E?style=flat&logo=cloud&logoColor=white)
+![BioDalliance](https://img.shields.io/badge/BioDalliance-E74C3C?style=flat&logo=link&logoColor=white)
+![GnomAD Browser](https://img.shields.io/badge/GnomAD%20Browser-16A085?style=flat&logo=chart-bar&logoColor=white)
+![UCSC Xena](https://img.shields.io/badge/UCSC%20Xena-3498DB?style=flat&logo=chart-line&logoColor=white)
+![CBioPortal](https://img.shields.io/badge/cBioPortal-2C3E50?style=flat&logo=hospital&logoColor=white)
 
 ---
-### 🚀 Featured Projects  
-- **[Genomic Variant Classifier](https://github.com/mtariqi/genomic-variant-classifier)** – ML pipeline for pathogenic DNA variant classification  
-- **[Brain Development Reproduction](https://github.com/mtariqi/developing-brain-reproduction-)** – Computational neuroscience & human brain atlas modeling  
-- **[EHR Analytics DORIS](https://github.com/mtariqi/ehr-analytics-doris)** – Electronic health records analytics platform  
-- **[Data Science Portfolio](https://github.com/mtariqi/Data-Science-Bioinformatics-portfolio)** – AI/ML projects in genomics, clinical research & medical imaging  
-- **[Classmate Connect](https://github.com/mtariqi/classmate-connect)** – Web application connecting graduate students  
+
+### 💼 Technical Expertise
+
+**Programming & Data Science**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-0A2E5B?style=flat&logo=sas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+
+**Machine Learning & AI**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+
+**Bioinformatics Core Tools**
+![STAR](https://img.shields.io/badge/STAR-2C3E50?style=flat&logo=gene&logoColor=white)
+![BWA](https://img.shields.io/badge/BWA-8E44AD?style=flat&logo=dna&logoColor=white)
+![Bowtie2](https://img.shields.io/badge/Bowtie2-27AE60?style=flat&logo=dna&logoColor=white)
+![GATK](https://img.shields.io/badge/GATK-2ECC71?style=flat&logo=shield&logoColor=white)
+![DESeq2](https://img.shields.io/badge/DESeq2-8E44AD?style=flat&logo=chart-line&logoColor=white)
+![Seurat](https://img.shields.io/badge/Seurat-2C3E50?style=flat&logo=cell&logoColor=white)
+![Scanpy](https://img.shields.io/badge/Scanpy-E74C3C?style=flat&logo=python&logoColor=white)
+
+**Workflow & Infrastructure**
+![Nextflow](https://img.shields.io/badge/Nextflow-00B2A9?style=flat&logo=nextflow&logoColor=white)
+![Snakemake](https://img.shields.io/badge/Snakemake-4CAF50?style=flat&logo=snake&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-### 📌 Currently Based  
-📍 **Toronto, Canada** | 🎓 **Northeastern University – Toronto Campus**  
+### 🔬 What I Do
+
+- **Bioinformatics & Computational Biology**: Applying computational methods to genomics, transcriptomics, and proteomics
+- **AI/ML in Healthcare**: Developing intelligent systems for medical imaging, clinical data, and drug discovery
+- **Precision Medicine**: Working on personalized treatment approaches using genomic data
+- **Cancer Research**: Analyzing oncology datasets for biomarker discovery and therapeutic targets
+- **Pharmaceutical Applications**: Supporting drug design and clinical trial analytics
+- **LLM Engineering**: Building AI agents and language models for biomedical applications
 
 ---
 
-⚡ **Fun fact**: Passionate about wanderlust and exploring new landscapes when not coding!  
+### 🚀 Featured Projects
 
-*Open to full-time roles, research collaborations, and innovative projects in AI/ML and Bioinformatics*
+- **[Genomic Variant Classifier](https://github.com/mtariqi/genomic-variant-classifier)**: ML pipeline for classifying pathogenic DNA variants
+- **[Brain Development Reproduction](https://github.com/mtariqi/developing-brain-reproduction-)**: Computational neuroscience project reproducing human brain atlas research
+- **[Data Science Portfolio](https://github.com/mtariqi/Data-Science-Bioinformatics-portfolio)**: Comprehensive showcase of AI/ML projects in clinical research, genomics, and medical imaging
+- **[EHR Analytics DORIS](https://github.com/mtariqi/ehr-analytics-doris)**: Electronic health records analytics platform
+- **[Classmate Connect](https://github.com/mtariqi/classmate-connect)**: Web application connecting graduate students
+
+---
+
+### 📌 Currently Based
+
+**📍 Toronto, Canada** | **🎓 Northeastern University – Toronto Campus**
+
+---
+
+⚡ **Fun fact**: Passionate about wanderlust and exploring new landscapes when not coding!
+
+*Actively seeking full-time positions in Bioinformatics, Precision Medicine, Cancer Research, Oncology, Drug Design, and Pharmaceutical roles. Open to research collaborations in healthcare AI and computational biology.*
 ```
-
-
