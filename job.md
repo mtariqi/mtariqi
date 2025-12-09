@@ -1,4 +1,4 @@
-# Hi, I'm @mtariqi 
+# Hi, I'm @mtariqi 👋
 
 - [x] I'm an **AI/ML Engineer | Bioinformatics Researcher | Data Scientist**  
 - [x] I'm currently working on **AI agents, LLM engineering, and bioinformatics pipelines**  
@@ -52,26 +52,136 @@
 
 ---
 
+### 💼 Professional Experience
+
+**🔬 Current Role**
+![Scired](https://img.shields.io/badge/SCIRED-2C3E50?style=flat&logo=microscope&logoColor=white)
+**Scientist (Data Science and Data Engineering)**  
+*Jun 2023 - Present · 2 yrs 7 mos · United States · Hybrid*  
+- Lead blockchain-based public health surveillance system development  
+- Implement dynamic pricing models and predictive analytics  
+- Utilize GCP and BigQuery for operational efficiency  
+- Focus on data privacy and Microsoft SQL Server implementations  
+
+**📊 Data Science & Analytics Roles**
+![Statistics Canada](https://img.shields.io/badge/Statistics%20Canada-0052A5?style=flat&logo=government&logoColor=white)
+**Operations Officer (Data Science & CMT)**  
+*Jun 2022 - May 2023 · 1 yr · Toronto, Canada*  
+- JIRA platform project organization and workflow configuration  
+- Power BI and Tableau dashboard development  
+- Predictive modeling with Python and scikit-learn  
+- GCP data pipeline design with BigQuery  
+
+![IQVIA](https://img.shields.io/badge/IQVIA-00A3E0?style=flat&logo=medical-cross&logoColor=white)
+**Lab Clinical Data Analyst**  
+*Mar 2022 - Jun 2022 · 4 mos · Toronto, Canada*  
+- Clinical trials database management and issue resolution  
+- ICH E6 GCP guideline compliance  
+- Python, SQL, and SAS for data processing  
+- External team collaboration and timeline negotiation  
+
+![CHES](https://img.shields.io/badge/CHES-8B4513?style=flat&logo=shield&logoColor=white)
+**Data Analyst**  
+*Nov 2021 - Mar 2022 · 5 mos · Toronto, Canada · Remote*  
+- Business intelligence and data mining initiatives  
+- Portfolio deep-dive projects with Python and SAS  
+- Complex SQL stored procedures and data migration  
+- Tableau and Excel dashboard development  
+
+**🧪 Pharmaceutical & Lab Experience**
+![Apotex](https://img.shields.io/badge/Apotex-1E90FF?style=flat&logo=pill&logoColor=white)
+**Lab Technician**  
+*Apr 2018 - May 2019 · 1 yr 2 mos · North York, Canada*  
+- Microbiology testing for microbial contamination  
+- DNA/RNA sequencing and genome analysis  
+- SAP inventory management  
+- Six Sigma process optimization (1% raw material reduction)  
+
+![Statistics Canada](https://img.shields.io/badge/Statistics%20Canada-0052A5?style=flat&logo=government&logoColor=white)
+**Supervisor**  
+*Apr 2021 - Sep 2021 · 6 mos · Toronto, Canada*  
+- Team leadership and performance monitoring  
+- SAS programming for data cleaning and validation  
+- Statistical analysis and quality assurance  
+- KPI management and reporting  
+
+---
+
+### 🎓 Academic & Research Experience
+
+**🇸🇪 International Research**
+![Umeå University](https://img.shields.io/badge/Umeå%20University-004B87?style=flat&logo=academic&logoColor=white)
+**Graduate Research Assistant**  
+*Jan 2010 - Oct 2011 · 1 yr 10 mos · Umeå, Sweden*  
+- Molecular genetic analysis of Type VI secretion system  
+- Vibrio cholerae sRNA (VrrA) regulation research  
+- Genomic and clinical data processing (GEO)  
+- Protein purification and chromatographic techniques  
+
+![Umeå Plant Science Centre](https://img.shields.io/badge/Umeå%20Plant%20Science-228B22?style=flat&logo=leaf&logoColor=white)
+**Research Assistant**  
+*Mar 2011 - Sep 2011 · 7 mos · Umeå, Sweden*  
+- Cell wall modification in aspen through microbial enzymes  
+- TOPO cloning and recombination techniques  
+- Confocal microscopy and immunohistology  
+- Genomic database expertise (Ensembl, UCSC)  
+
+**🇨🇦 Canadian Research**
+![Simon Fraser University](https://img.shields.io/badge/Simon%20Fraser%20University-C41E3A?style=flat&logo=graduation-cap&logoColor=white)
+**Research Scholar**  
+*Nov 2011 - Jul 2013 · 1 yr 9 mos · Burnaby, Canada*  
+- Molecular biology techniques and software applications  
+- Cell interaction monitoring and data analysis  
+- Construct cloning and confocal microscopy  
+- Sample preparation and instrumentation optimization  
+
+![University of Saskatchewan](https://img.shields.io/badge/University%20of%20Saskatchewan-0066CC?style=flat&logo=university&logoColor=white)
+**Research Fellow**  
+*Sep 2013 - Dec 2015 · 2 yrs 4 mos · Saskatoon, Canada*  
+- Research protocol development and collaboration  
+- Computational research support and study performance  
+- Gene expression measurement and microscopic analysis  
+- Recombinant DNA work and gene sequencing  
+
+**🏥 Clinical & Health Research**
+![University Health Network](https://img.shields.io/badge/University%20Health%20Network-8B0000?style=flat&logo=hospital&logoColor=white)
+**Clinical Research Assistant**  
+*May 2020 - Aug 2020 · 4 mos · Toronto, Canada*  
+- Clinical trial management from recruitment to completion  
+- Data extraction, cleaning, and exploratory analysis  
+- SAS and SQL data preparation and validation  
+- REB collaboration and policy implementation  
+
+**📚 Data Science Education**
+![University of Toronto](https://img.shields.io/badge/University%20of%20Toronto-002A5C?style=flat&logo=university&logoColor=white)
+**Business Analytics & Data Science**  
+*Data Driven Decision Making · 2021*  
+- Advanced analytics and decision modeling  
+- Association with Data Science Institute, UofT  
+- Statistical methods and predictive analytics  
+- Business intelligence applications  
+
+![Metro College](https://img.shields.io/badge/Metro%20College-FF6600?style=flat&logo=school&logoColor=white)
+**Advanced Diploma in Data Science**  
+*Sep 2020 - Apr 2021*  
+- Comprehensive data science curriculum  
+- Machine learning and AI applications  
+- Big data technologies and cloud computing  
+- Real-world project implementation  
+
+---
+
 ### 📊 GitHub Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mtariqi&label=PROFILE%20VIEWS&color=blue)
 
 **Md Tariqul Islam's GitHub Stats**
 
-**Total Stars Earned:** 14  
-![14](https://geps.dev/progress/35?dangerColor=800000&warningColor=ff5e00&successColor=00cfe8)
-
-**Total Commits:** 4.6k  
-![4.6k](https://geps.dev/progress/92?dangerColor=800000&warningColor=ff5e00&successColor=00cfe8)
-
-**Total PRs:** 717  
-![717](https://geps.dev/progress/72?dangerColor=800000&warningColor=ff5e00&successColor=00cfe8)
-
-**Total Issues:** 8  
-![8](https://geps.dev/progress/8?dangerColor=800000&warningColor=ff5e00&successColor=00cfe8)
-
-**Contributed to (last year):** 6  
-![6](https://geps.dev/progress/60?dangerColor=800000&warningColor=ff5e00&successColor=00cfe8)
+- [x] **Total Stars Earned:** ![Stars](https://img.shields.io/badge/14-yellow)
+- [ ] **Total Commits:** ![Commits](https://img.shields.io/badge/4.6k-green)
+- [ ] **Total PRs:** ![PRs](https://img.shields.io/badge/717-orange)
+- [ ] **Total Issues:** ![Issues](https://img.shields.io/badge/8-red)
+- [ ] **Contributed to (last year):** ![Contributions](https://img.shields.io/badge/6-purple)
 
 ---
 
@@ -126,7 +236,7 @@
 
 ---
 
-### 💼 Technical Expertise
+### 💻 Technical Expertise
 
 **Programming & Data Science**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -155,7 +265,15 @@
 ![Snakemake](https://img.shields.io/badge/Snakemake-4CAF50?style=flat&logo=snake&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+**Clinical & Pharmaceutical Tools**
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat&logo=sap&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
+![Good Clinical Practice](https://img.shields.io/badge/GCP-00A3E0?style=flat&logo=medical-cross&logoColor=white)
 
 ---
 
@@ -167,6 +285,7 @@
 - **Cancer Research**: Analyzing oncology datasets for biomarker discovery and therapeutic targets
 - **Pharmaceutical Applications**: Supporting drug design and clinical trial analytics
 - **LLM Engineering**: Building AI agents and language models for biomedical applications
+- **Data Engineering**: Designing data pipelines and cloud infrastructure for healthcare data
 
 ---
 
@@ -180,6 +299,25 @@
 
 ---
 
+### 🏆 Certifications
+
+![SAP Certified](https://img.shields.io/badge/SAP%20Certified-0FAAFF?style=flat&logo=sap&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Azure%20Certified-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6F00?style=flat&logo=openai&logoColor=white)
+![Clinical Data Analysis](https://img.shields.io/badge/Clinical%20Data%20Analysis-00A3E0?style=flat&logo=clipboard-check&logoColor=white)
+![Laboratory Safety](https://img.shields.io/badge/Lab%20Safety-27AE60?style=flat&logo=shield&logoColor=white)
+
+---
+
+### 🌐 Languages
+
+![English](https://img.shields.io/badge/English-Full%20Professional-3498DB?style=flat&logo=language&logoColor=white)
+![Bengali](https://img.shields.io/badge/Bengali-Native%20Bilingual-2ECC71?style=flat&logo=translate&logoColor=white)
+![Urdu](https://img.shields.io/badge/Urdu-Professional-9B59B6?style=flat&logo=language&logoColor=white)
+![Hindi](https://img.shields.io/badge/Hindi-Professional-E74C3C?style=flat&logo=language&logoColor=white)
+
+---
+
 ### 📌 Currently Based
 
 **📍 Toronto, Canada** | **🎓 Northeastern University – Toronto Campus**
@@ -189,4 +327,3 @@
 ⚡ **Fun fact**: Passionate about wanderlust and exploring new landscapes when not coding!
 
 *Actively seeking full-time positions in Bioinformatics, Precision Medicine, Cancer Research, Oncology, Drug Design, and Pharmaceutical roles. Open to research collaborations in healthcare AI and computational biology.*
-```
