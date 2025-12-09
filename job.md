@@ -58,11 +58,20 @@
 
 **Md Tariqul Islam's GitHub Stats**
 
-- [x] **Total Stars Earned:** ![Stars](https://img.shields.io/badge/14-yellow)
-- [ ] **Total Commits:** ![Commits](https://img.shields.io/badge/4.6k-green)
-- [ ] **Total PRs:** ![PRs](https://img.shields.io/badge/717-orange)
-- [ ] **Total Issues:** ![Issues](https://img.shields.io/badge/8-red)
-- [ ] **Contributed to (last year):** ![Contributions](https://img.shields.io/badge/6-purple)
+**Total Stars Earned:** `★★★★★★★★★★★★★★` **14**  
+![Stars Bar](https://progress-bar.dev/35/?title=Stars&color=yellow&width=300)
+
+**Total Commits:** `●●●●●●●●●●●●●●●●●●●●●●` **4.6k**  
+![Commits Bar](https://progress-bar.dev/92/?title=Commits&color=green&width=300)
+
+**Total PRs:** `■■■■■■■■■■■■■■■■■■■■■■■` **717**  
+![PRs Bar](https://progress-bar.dev/72/?title=PRs&color=orange&width=300)
+
+**Total Issues:** `□□□□□□□□` **8**  
+![Issues Bar](https://progress-bar.dev/8/?title=Issues&color=red&width=300)
+
+**Contributed to (last year):** `♦♦♦♦♦♦` **6**  
+![Contributions Bar](https://progress-bar.dev/60/?title=Contributions&color=purple&width=300)
 
 ---
 
