@@ -1,6 +1,3 @@
-Here's your README rewritten with all your bioinformatics tools included in the requested format:
-
-```markdown
 # Hi, I'm Md Tariqul Islam 👋
 
 - [x] I'm an **AI/ML Engineer | Bioinformatics Researcher | Data Scientist**  
