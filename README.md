@@ -1,82 +1,72 @@
-# Hi, I'm Md Tariqul Islam 👋
+# Hi, I'm Md Tariqul Islam 👋  
 
-## AI/ML Engineer | Bioinformatics Researcher | Data Scientist
-
-I'm a seasoned Data Scientist with a comprehensive background in machine learning, artificial intelligence, and bioinformatics. Currently applying AI agent and LLM engineering to solve complex problems at the intersection of technology and life sciences.
-
-### 🔬 What I Do
-
-- **AI & Machine Learning**: Developing intelligent systems and machine learning pipelines for real-world applications
-- **Bioinformatics Research**: Applying computational methods to genomics, medical imaging, and drug discovery
-- **LLM Engineering**: Building and deploying large language model applications and AI agents
-- **Clinical Data Analysis**: Working with EHR analytics and clinical research data (DORIS)
-
-### 💼 Technical Expertise
-
-**Programming & Data Science**:
-- **Languages**: Python, R, SAS, Bash/Shell Scripting, SQL
-- **ML/DL Frameworks**: TensorFlow, PyTorch, scikit-learn, Keras
-- **Data Analysis**: pandas, NumPy, Matplotlib, Seaborn, ggplot2
-
-**Bioinformatics & Computational Biology**:
-- **Sequence Alignment**: STAR, BWA, Bowtie2, minimap2, HISAT2
-- **Workflow Management**: Nextflow, Snakemake, WDL, CWL
-- **Variant Analysis**: GATK, bcftools, SAMtools, VCFtools, SnpEff, ANNOVAR
-- **RNA-Seq Analysis**: DESeq2, edgeR, Salmon, kallisto, featureCounts
-- **Single-Cell Analysis**: Seurat, Scanpy, Cell Ranger, Monocle
-- **Genomics Tools**: BEDTools, IGV, UCSC Genome Browser, Ensembl
-- **Assembly & QC**: SPAdes, FastQC, MultiQC, Trimmomatic
-- **Structural Variation**: Manta, Delly, Lumpy, CNVkit
-
-**Infrastructure & DevOps**:
-- **Containerization**: Docker, Singularity
-- **Cloud Platforms**: AWS (EC2, S3), Google Cloud Platform
-- **HPC & Cluster Computing**: SLURM, PBS, SGE
-- **Version Control**: Git, GitHub, GitLab
-
-**Specializations**:
-- Genomic variant classification and pathogenic DNA analysis
-- RNA-Seq and transcriptomics analysis pipelines
-- Single-cell genomics and multi-omics integration
-- Medical imaging and clinical research AI/ML projects
-- Workflow automation and reproducible research
-- Brain development reproduction modeling
-
-### 🎓 Education & Location
-
-- **Currently Based**: Toronto, Canada
-- **Background**: Data Science with focus on ML, AI, and Bioinformatics
-- **Academic Affiliation**: Graduate student work at Northeastern University - Toronto Campus
-
-### 🚀 Featured Projects
-
-- **[Genomic Variant Classifier](https://github.com/mtariqi/genomic-variant-classifier)**: ML pipeline for classifying pathogenic DNA variants
-- **[Brain Development Reproduction](https://github.com/mtariqi/developing-brain-reproduction-)**: Computational neuroscience project reproducing human brain atlas research
-- **[Data Science Portfolio](https://github.com/mtariqi/Data-Science-Bioinformatics-portfolio)**: Comprehensive showcase of AI/ML projects in clinical research, genomics, and medical imaging
-- **[EHR Analytics DORIS](https://github.com/mtariqi/ehr-analytics-doris)**: Electronic health records analytics platform
-- **[Classmate Connect](https://github.com/mtariqi/classmate-connect)**: Web application connecting graduate students
-
-### 🤝 Open to Collaboration
-
-I'm actively seeking opportunities to collaborate on:
-- AI/ML applications in healthcare and life sciences
-- Bioinformatics research projects
-- LLM and AI agent development
-- Innovative data science solutions
-
-### 📫 Let's Connect
-
-- **Email**: [tariqul@scired.com](mailto:tariqul@scired.com)
-- **LinkedIn**: [in/mdtariqulscired](https://linkedin.com/in/mdtariqulscired)
-- **ORCID**: [0009-0009-6545-8040](https://orcid.org/0009-0009-6545-8040)
-- **Organization**: [SCIRED](https://scired.com)
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mtariqi&show_icons=true&theme=default)
+- [x] I'm an **AI/ML Engineer | Bioinformatics Researcher | Data Scientist**  
+- [ ] I'm currently working on **AI agents, LLM engineering, and bioinformatics pipelines**  
+- [ ] I'm looking for **full-time opportunities and research collaborations**  
 
 ---
 
-⚡ **Fun fact**: Passionate about wanderlust and exploring new landscapes when not coding!
+### 📬 Connect With Me  
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:tariqul@scired.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/mdtariqulscired)  
+[![ORCID](https://img.shields.io/badge/ORCID-Profile-green)](https://orcid.org/0009-0009-6545-8040)  
+[![Website](https://img.shields.io/badge/Website-SCIRED-blue)](https://scired.com)  
 
-*Open to full-time opportunities, research collaborations, and interesting projects in AI/ML and Bioinformatics*
+---
+
+### 🔬 What I Do  
+- **AI & ML**: Intelligent systems, ML pipelines, and real-world AI applications  
+- **Bioinformatics**: Genomics, medical imaging, drug discovery, and clinical data  
+- **LLM Engineering**: Large language model applications and AI agents  
+- **Data Science**: EHR analytics (DORIS), clinical research, and reproducible workflows  
+
+---
+
+### 💻 Tech Stack  
+**Languages & ML**:  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
+
+**Bioinformatics**:  
+![Nextflow](https://img.shields.io/badge/Nextflow-00B2A9?logo=nextflow&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)  
+
+**Data & Tools**:  
+![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
+
+---
+
+### 📊 GitHub Stats  
+![Profile Views](https://komarev.com/ghpvc/?username=mtariqi&color=blue)  
+**Total Stars Earned:** ![Stars](https://img.shields.io/github/stars/mtariqi?color=yellow)  
+**Total Commits:** ![Commits](https://img.shields.io/github/commit-activity/t/mtariqi?color=green)  
+**Total PRs:** ![PRs](https://img.shields.io/github/issues-pr/mtariqi?color=orange)  
+**Contributed to (last year):** ![Contributions](https://img.shields.io/badge/Contributions-6-purple)  
+
+---
+
+### 📈 Contribution Graph  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mtariqi&theme=github)  
+
+---
+
+### 🚀 Featured Projects  
+- **[Genomic Variant Classifier](https://github.com/mtariqi/genomic-variant-classifier)** – ML pipeline for pathogenic DNA variant classification  
+- **[Brain Development Reproduction](https://github.com/mtariqi/developing-brain-reproduction-)** – Computational neuroscience & human brain atlas modeling  
+- **[EHR Analytics DORIS](https://github.com/mtariqi/ehr-analytics-doris)** – Electronic health records analytics platform  
+- **[Data Science Portfolio](https://github.com/mtariqi/Data-Science-Bioinformatics-portfolio)** – AI/ML projects in genomics, clinical research & medical imaging  
+
+---
+
+### 📌 Currently Based  
+📍 **Toronto, Canada** | 🎓 **Northeastern University – Toronto Campus**  
+
+---
+
+⚡ **Fun fact**: Passionate about wanderlust and exploring new landscapes when not coding!  
+
+*Open to full-time roles, research collaborations, and innovative projects in AI/ML and Bioinformatics*
