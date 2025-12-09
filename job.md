@@ -1,6 +1,6 @@
-# Hi, I'm @mtariqi 👋
+# Hi, I'm @mtariqi 
 
-- [x] I'm an **AI/ML Engineer | Bioinformatics Researcher | Data Scientist**  
+- [x] I'm a **Graduate Student in Bioinformatics at Northeastern University**  
 - [x] I'm currently working on **AI agents, LLM engineering, and bioinformatics pipelines**  
 - [x] I'm looking for **full-time opportunities in Bioinformatics, Precision Medicine & Pharmaceutical Research**  
 
@@ -12,6 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-in/mdtariqulscired-blue?style=flat&logo=linkedin)](https://linkedin.com/in/mdtariqulscired)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0009--6545--8040-green?style=flat&logo=orcid)](https://orcid.org/0009-0009-6545-8040)
 [![Website](https://img.shields.io/badge/SCIRED-scired.com-blue?style=flat&logo=globe)](https://scired.com)
+[![Northeastern University](https://img.shields.io/badge/Northeastern%20University-CC0000?style=flat&logo=graduation-cap&logoColor=white)](https://www.northeastern.edu/)
 
 ---
 
@@ -49,6 +50,18 @@
 ![Remote](https://img.shields.io/badge/Remote%20Work-2ECC71?style=flat&logo=home&logoColor=white)
 ![Canada](https://img.shields.io/badge/Canada-FF0000?style=flat&logo=map&logoColor=white)
 ![USA](https://img.shields.io/badge/USA-3C3B6E?style=flat&logo=map&logoColor=white)
+
+---
+
+### 🎓 Current Academic Status
+
+![Northeastern University](https://img.shields.io/badge/Northeastern%20University-CC0000?style=flat&logo=university&logoColor=white)
+**Graduate Student, Bioinformatics Department**  
+*Current Student · Toronto Campus*  
+- Advanced studies in computational biology and bioinformatics  
+- Specializing in AI/ML applications in genomics and healthcare  
+- Research focus on precision medicine and genomic data analysis  
+- Coursework in machine learning, statistical genomics, and computational biology  
 
 ---
 
@@ -109,6 +122,15 @@
 
 ### 🎓 Academic & Research Experience
 
+**📚 Current Education**
+![Northeastern University](https://img.shields.io/badge/Northeastern%20University-CC0000?style=flat&logo=university&logoColor=white)
+**M.S. in Bioinformatics (In Progress)**  
+*Current · Toronto Campus*  
+- Computational biology and genomics curriculum  
+- Machine learning applications in biomedical research  
+- Statistical methods for genomic data analysis  
+- Integration of AI/ML with bioinformatics workflows  
+
 **🇸🇪 International Research**
 ![Umeå University](https://img.shields.io/badge/Umeå%20University-004B87?style=flat&logo=academic&logoColor=white)
 **Graduate Research Assistant**  
@@ -152,7 +174,7 @@
 - SAS and SQL data preparation and validation  
 - REB collaboration and policy implementation  
 
-**📚 Data Science Education**
+**📊 Previous Data Science Education**
 ![University of Toronto](https://img.shields.io/badge/University%20of%20Toronto-002A5C?style=flat&logo=university&logoColor=white)
 **Business Analytics & Data Science**  
 *Data Driven Decision Making · 2021*  
@@ -169,6 +191,9 @@
 - Big data technologies and cloud computing  
 - Real-world project implementation  
 
+---
+
+*(Continued with GitHub Stats, Technical Expertise, and other sections...)*
 ---
 
 ### 📊 GitHub Stats
