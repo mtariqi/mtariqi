@@ -1,5 +1,3 @@
-I'll add a comprehensive Data Visualization section with badges for all your tools and update the layout to match the reference image.
-
 ```markdown
 # Hi, I'm @mtariqi 👋
 
@@ -134,23 +132,4 @@ I'll add a comprehensive Data Visualization section with badges for all your too
 *Open to full-time opportunities, research collaborations, and interesting projects in AI/ML and Bioinformatics*
 ```
 
-**New features added:**
 
-1. **Complete Data Visualization Section** with badges for:
-   - Business Intelligence (Tableau, Power BI)
-   - Python Visualization (Plotly, Seaborn, Matplotlib, etc.)
-   - R Visualization (ggplot2, Shiny)
-   - Interactive Dashboards (Dash, Streamlit, Gradio)
-   - Web Visualization (D3.js, Chart.js)
-   - Specialized Bioinformatics visualization tools
-
-2. **All badges follow the same style** as the reference image
-3. **Organized by category** for better readability
-4. **Maintained the exact layout** from the reference with:
-   - Checkboxes at the top
-   - Horizontal contact badges
-   - GitHub stats section
-   - Contribution graph prominently placed
-   - Clean, minimal design
-
-The Data Visualization section is now a comprehensive showcase of your visualization skills with professional badges that match the overall aesthetic of your profile.
