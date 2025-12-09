@@ -1,16 +1,37 @@
-# Hi, I'm Md Tariqul Islam 👋
+# Hi, I'm @mtariqi 
 
 - [x] I'm an **AI/ML Engineer | Bioinformatics Researcher | Data Scientist**  
-- [ ] I'm currently working on **AI agents, LLM engineering, and bioinformatics pipelines**  
+- [x] I'm currently working on **AI agents, LLM engineering, and bioinformatics pipelines**  
 - [ ] I'm looking for **full-time opportunities and research collaborations**  
 
 ---
 
-### 📬 Connect With Me  
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:tariqul@scired.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/mdtariqulscired)  
-[![ORCID](https://img.shields.io/badge/ORCID-Profile-green)](https://orcid.org/0009-0009-6545-8040)  
-[![Website](https://img.shields.io/badge/Website-SCIRED-blue)](https://scired.com)  
+### 📬 Connect With Me
+
+[![Email](https://img.shields.io/badge/EMAIL-tariqul@scired.com-red?style=flat&logo=gmail)](mailto:tariqul@scired.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-in/mdtariqulscired-blue?style=flat&logo=linkedin)](https://linkedin.com/in/mdtariqulscired)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0009--6545--8040-green?style=flat&logo=orcid)](https://orcid.org/0009-0009-6545-8040)
+[![Website](https://img.shields.io/badge/SCIRED-scired.com-blue?style=flat&logo=globe)](https://scired.com)
+
+---
+
+### 📊 GitHub Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=mtariqi&label=PROFILE%20VIEWS&color=blue)
+
+**Md Tariqul Islam's GitHub Stats**
+
+- [x] **Total Stars Earned:** ![Stars](https://img.shields.io/badge/14-yellow)
+- [ ] **Total Commits:** ![Commits](https://img.shields.io/badge/4.6k-green)
+- [ ] **Total PRs:** ![PRs](https://img.shields.io/badge/717-orange)
+- [ ] **Total Issues:** ![Issues](https://img.shields.io/badge/8-red)
+- [ ] **Contributed to (last year):** ![Contributions](https://img.shields.io/badge/6-purple)
+
+---
+
+### 📈 Contribution Graph
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mtariqi&theme=github&hide_border=true&area=true&custom_title=Total%20Contribution%20Graph)
 
 ---
 
@@ -91,20 +112,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-![Profile Views](https://komarev.com/ghpvc/?username=mtariqi&color=blue)  
-**Total Stars Earned:** ![Stars](https://img.shields.io/github/stars/mtariqi?color=yellow)  
-**Total Commits:** ![Commits](https://img.shields.io/github/commit-activity/t/mtariqi?color=green)  
-**Total PRs:** ![PRs](https://img.shields.io/github/issues-pr/mtariqi?color=orange)  
-**Contributed to (last year):** ![Contributions](https://img.shields.io/badge/Contributions-6-purple)  
-
----
-
-### 📈 Contribution Graph  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mtariqi&theme=github)  
-
----
-
 ### 🚀 Featured Projects  
 - **[Genomic Variant Classifier](https://github.com/mtariqi/genomic-variant-classifier)** – ML pipeline for pathogenic DNA variant classification  
 - **[Brain Development Reproduction](https://github.com/mtariqi/developing-brain-reproduction-)** – Computational neuroscience & human brain atlas modeling  
@@ -124,10 +131,4 @@
 *Open to full-time roles, research collaborations, and innovative projects in AI/ML and Bioinformatics*
 ```
 
-This version includes:
-1. All your bioinformatics tools organized by category
-2. Badges for each tool with appropriate colors and icons
-3. The checkbox format you requested at the top
-4. All your project links
-5. Clean, organized sections similar to the example
-6. All your technical expertise in a visually appealing format
+
