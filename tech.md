@@ -1,4 +1,3 @@
-```markdown
 # Hi, I'm @mtariqi 👋
 
 - [x] I'm an **AI/ML Engineer | Bioinformatics Researcher | Data Scientist**  
