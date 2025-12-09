@@ -192,10 +192,6 @@
 - Real-world project implementation  
 
 ---
-
-*(Continued with GitHub Stats, Technical Expertise, and other sections...)*
----
-
 ### 📊 GitHub Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mtariqi&label=PROFILE%20VIEWS&color=blue)
