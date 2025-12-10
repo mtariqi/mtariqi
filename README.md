@@ -125,31 +125,6 @@
 ![CBioPortal](https://img.shields.io/badge/cBioPortal-2C3E50?style=flat&logo=hospital&logoColor=white)
 
 ---
-
-### 💼 Technical Expertise
-
-**Programming & Data Science**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![SAS](https://img.shields.io/badge/SAS-0A2E5B?style=flat&logo=sas&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-
-**Machine Learning & AI**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-
-**Bioinformatics Core Tools**
-![STAR](https://img.shields.io/badge/STAR-2C3E50?style=flat&logo=gene&logoColor=white)
-![BWA](https://img.shields.io/badge/BWA-8E44AD?style=flat&logo=dna&logoColor=white)
-![Bowtie2](https://img.shields.io/badge/Bowtie2-27AE60?style=flat&logo=dna&logoColor=white)
-![GATK](https://img.shields.io/badge/GATK-2ECC71?style=flat&logo=shield&logoColor=white)
-![DESeq2](https://img.shields.io/badge/DESeq2-8E44AD?style=flat&logo=chart-line&logoColor=white)
-![Seurat](https://img.shields.io/badge/Seurat-2C3E50?style=flat&logo=cell&logoColor=white)
-![Scanpy](https://img.shields.io/badge/Scanpy-E74C3C?style=flat&logo=python&logoColor=white)
-
 ### 💻 Technical Expertise
 
 **Programming & Data Science**
