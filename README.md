@@ -150,15 +150,46 @@
 ![Seurat](https://img.shields.io/badge/Seurat-2C3E50?style=flat&logo=cell&logoColor=white)
 ![Scanpy](https://img.shields.io/badge/Scanpy-E74C3C?style=flat&logo=python&logoColor=white)
 
+### 💻 Technical Expertise
+
+**Programming & Data Science**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-0A2E5B?style=flat&logo=sas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+
+**Machine Learning & AI**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+
+**Bioinformatics Core Tools**
+![STAR](https://img.shields.io/badge/STAR-2C3E50?style=flat&logo=gene&logoColor=white)
+![BWA](https://img.shields.io/badge/BWA-8E44AD?style=flat&logo=dna&logoColor=white)
+![Bowtie2](https://img.shields.io/badge/Bowtie2-27AE60?style=flat&logo=dna&logoColor=white)
+![GATK](https://img.shields.io/badge/GATK-2ECC71?style=flat&logo=shield&logoColor=white)
+![DESeq2](https://img.shields.io/badge/DESeq2-8E44AD?style=flat&logo=chart-line&logoColor=white)
+![Seurat](https://img.shields.io/badge/Seurat-2C3E50?style=flat&logo=cell&logoColor=white)
+![Scanpy](https://img.shields.io/badge/Scanpy-E74C3C?style=flat&logo=python&logoColor=white)
+
 **Workflow & Infrastructure**
 ![Nextflow](https://img.shields.io/badge/Nextflow-00B2A9?style=flat&logo=nextflow&logoColor=white)
 ![Snakemake](https://img.shields.io/badge/Snakemake-4CAF50?style=flat&logo=snake&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
----
+**Clinical & Pharmaceutical Tools**
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat&logo=sap&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
+![Good Clinical Practice](https://img.shields.io/badge/GCP-00A3E0?style=flat&logo=medical-cross&logoColor=white)
 
+---
 ### 🔬 What I Do
 
 - **Bioinformatics & Computational Biology**: Applying computational methods to genomics, transcriptomics, and proteomics
