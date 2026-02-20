@@ -126,6 +126,48 @@
 
 ---
 ### 💻 Technical Expertise
+**Programming & Data Science** &nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-003366?style=flat&logo=sas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+
+**Machine Learning & AI** &nbsp;
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-ESM--2%20%7C%20Claude-8A2BE2?style=flat&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented-6A0DAD?style=flat&logo=databricks&logoColor=white)
+![AI Agent](https://img.shields.io/badge/AI%20Agent-Agentic%20Pipelines-FF4500?style=flat&logo=probot&logoColor=white)
+
+**Bioinformatics Core Tools** &nbsp;
+![STAR](https://img.shields.io/badge/STAR-Aligner-333333?style=flat&logoColor=white)
+![BWA](https://img.shields.io/badge/BWA-333333?style=flat&logoColor=white)
+![Bowtie2](https://img.shields.io/badge/Bowtie2-333333?style=flat&logoColor=white)
+![GATK](https://img.shields.io/badge/GATK-721817?style=flat&logoColor=white)
+![DESeq2](https://img.shields.io/badge/DESeq2-276DC3?style=flat&logo=r&logoColor=white)
+![Seurat](https://img.shields.io/badge/Seurat-2E86AB?style=flat&logoColor=white)
+![Scanpy](https://img.shields.io/badge/Scanpy-3776AB?style=flat&logo=python&logoColor=white)
+
+**Workflow & Infrastructure** &nbsp;
+![Nextflow](https://img.shields.io/badge/Nextflow-3EAA2E?style=flat&logo=nextflow&logoColor=white)
+![Snakemake](https://img.shields.io/badge/Snakemake-3776AB?style=flat&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Apache NiFi](https://img.shields.io/badge/Apache%20NiFi-728E9B?style=flat&logo=apache&logoColor=white)
+![Apache Doris](https://img.shields.io/badge/Apache%20Doris-4479A1?style=flat&logo=apache&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-Vector%20DB-DC143C?style=flat&logo=databricks&logoColor=white)
+
+**Clinical & Pharmaceutical Tools** &nbsp;
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat&logo=sap&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
 **Programming & Data Science**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
