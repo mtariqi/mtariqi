@@ -204,5 +204,5 @@ I specialize in Python, PostgreSQL, AWS, Airflow, Terraform, LangChain, Amazon B
 
 ⚡ **Fun fact**: Passionate about wanderlust and exploring new landscapes when not coding!
 
-*Actively seeking full-time positions in Bioinformatics, Precision Medicine, Cancer Research, Oncology, Drug Design, and Pharmaceutical roles. Open to research collaborations in healthcare AI and computational biology.*
+*Open to Senior Data Scientist, Healthcare Data Engineering, Bioinformatics, and Healthcare AI roles focused on Python, PostgreSQL, AWS, ETL pipelines, and production AI systems and computational biology.*
 ```
