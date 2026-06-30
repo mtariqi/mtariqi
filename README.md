@@ -183,7 +183,11 @@ I specialize in Python, PostgreSQL, AWS, Airflow, Terraform, LangChain, Amazon B
 ---
 
 ### 🚀 Featured Projects
-
+- **healthcare-genai-data-platform-nifi-spark-airflow-bedrock
+- **healthcare-rag-chatbot-langchain-bedrock
+- **cdc-healthcare-streaming-etl-pipeline
+-**clinical_data_analysis
+-**synthetic-variant-calling-benchmark
 - **[Genomic Variant Classifier](https://github.com/mtariqi/genomic-variant-classifier)**: ML pipeline for classifying pathogenic DNA variants
 - **[Brain Development Reproduction](https://github.com/mtariqi/developing-brain-reproduction-)**: Computational neuroscience project reproducing human brain atlas research
 - **[Data Science Portfolio](https://github.com/mtariqi/Data-Science-Bioinformatics-portfolio)**: Comprehensive showcase of AI/ML projects in clinical research, genomics, and medical imaging
