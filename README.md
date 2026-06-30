@@ -1,6 +1,6 @@
 # Hi, I'm @mtariqi 
 
-- [x] I design and configure **scientific data workflows, build data models, and set technical standards for reproducible and scalable bioinformatics systems** 
+- [x] I design and configure **scientific data workflows, build data pipelines & models, and set technical standards for reproducible and scalable bioinformatics systems** 
 - [x] I'm currently working on **AI agents, LLM engineering, and bioinformatics pipelines**  
 - [x] I'm looking for **full-time opportunities in Bioinformatics, Precision Medicine & Pharmaceutical Research**  
 
