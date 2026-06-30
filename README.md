@@ -1,5 +1,6 @@
-# Hi, I'm @mtariqi 
-
+# Hi, I'm Md Tariqul Islam
+Senior Data Scientist and Healthcare Data Engineer with experience building ETL pipelines, clinical data workflows, AI/ML models, and GenAI applications for healthcare, bioinformatics, and public-sector data.
+I specialize in Python, PostgreSQL, AWS, Airflow, Terraform, LangChain, Amazon Bedrock, and scalable healthcare analytics platforms. My work focuses on making healthcare data standardized, reusable, secure, and production-ready for analytics, research, and AI-powered applications.
 - [x] I design and configure **scientific data workflows, build data pipelines & models, and set technical standards for reproducible and scalable bioinformatics systems** 
 - [x] I'm currently working on **AI agents, LLM engineering, and bioinformatics pipelines**  
 - [x] I'm looking for **full-time opportunities in Bioinformatics, Precision Medicine & Pharmaceutical Research**  
