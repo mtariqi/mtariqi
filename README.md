@@ -1,208 +1,107 @@
-# Hi, I'm Md Tariqul Islam
-Senior Data Scientist and Healthcare Data Engineer with experience building ETL pipelines, clinical data workflows, AI/ML models, and GenAI applications for healthcare, bioinformatics, and public-sector data.
-I specialize in Python, PostgreSQL, AWS, Airflow, Terraform, LangChain, Amazon Bedrock, and scalable healthcare analytics platforms. My work focuses on making healthcare data standardized, reusable, secure, and production-ready for analytics, research, and AI-powered applications.
-- [x] I design and configure **scientific data workflows, build data pipelines & models, and set technical standards for reproducible and scalable bioinformatics systems** 
-- [x] I'm currently working on **AI agents, LLM engineering, and bioinformatics pipelines**  
-- [x] I'm looking for **full-time opportunities in Bioinformatics, Precision Medicine & Pharmaceutical Research**  
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1E,100:0F6E56&height=200&section=header&text=Md%20Tariqul%20Islam&fontSize=46&fontColor=5DD3A5&animation=fadeIn&fontAlignY=36&desc=Senior%20Data%20Scientist%20%7C%20Healthcare%20Data%20Engineer%20%7C%20Bioinformatician&descSize=17&descAlignY=54&descColor=E8EDF5" width="100%"/>
 
-### 📬 Connect With Me
+<a href="https://mtariqi.github.io"><img src="https://img.shields.io/badge/-Live%20Portfolio-0A0F1E?style=for-the-badge&logo=githubpages&logoColor=5DD3A5" /></a>
+<a href="https://linkedin.com/in/mdtariqulscired"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:tariqul@scired.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://orcid.org/0009-0009-6545-8040"><img src="https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
 
-[![Email](https://img.shields.io/badge/EMAIL-tariqul@scired.com-red?style=flat&logo=gmail)](mailto:tariqul@scired.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-in/mdtariqulscired-blue?style=flat&logo=linkedin)](https://linkedin.com/in/mdtariqulscired)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0009--6545--8040-green?style=flat&logo=orcid)](https://orcid.org/0009-0009-6545-8040)
-[![Website](https://img.shields.io/badge/SCIRED-scired.com-blue?style=flat&logo=globe)](https://scired.com)
+</div>
 
----
+<br>
 
-### 🔍 Seeking Opportunities In
+## About Me
 
-**🎯 Bioinformatics & Computational Biology**
-![Bioinformatics](https://img.shields.io/badge/Bioinformatics-2ECC71?style=flat&logo=dna&logoColor=white)
-![Genomics](https://img.shields.io/badge/Genomics-3498DB?style=flat&logo=gene&logoColor=white)
-![Transcriptomics](https://img.shields.io/badge/Transcriptomics-9B59B6?style=flat&logo=chart-line&logoColor=white)
-![Proteomics](https://img.shields.io/badge/Proteomics-E74C3C?style=flat&logo=molecule&logoColor=white)
-![Multi-Omics](https://img.shields.io/badge/Multi--Omics-16A085?style=flat&logo=layers&logoColor=white)
+Senior Data Scientist and Healthcare Data Engineer with 10+ years of experience building ETL pipelines, clinical data workflows, AI/ML models, and GenAI applications for healthcare, bioinformatics, and public-sector data. I specialize in making healthcare data **standardized, reusable, secure, and production-ready** for analytics, research, and AI-powered applications.
 
-**🏥 Precision Medicine & Clinical Research**
-![Precision Medicine](https://img.shields.io/badge/Precision%20Medicine-2980B9?style=flat&logo=hospital&logoColor=white)
-![Cancer Research](https://img.shields.io/badge/Cancer%20Research-E74C3C?style=flat&logo=medical-bag&logoColor=white)
-![Oncology](https://img.shields.io/badge/Oncology-C0392B?style=flat&logo=heart-pulse&logoColor=white)
-![Clinical Genomics](https://img.shields.io/badge/Clinical%20Genomics-8E44AD?style=flat&logo=stethoscope&logoColor=white)
-![Pharmacogenomics](https://img.shields.io/badge/Pharmacogenomics-27AE60?style=flat&logo=pill&logoColor=white)
+- 🔭 Currently building **data engineering pipelines, LLM/GenAI agents, and bioinformatics workflows**
+- 🧬 Background spans **genomics, transcriptomics, and precision medicine research**
+- 🎯 Open to full-time roles in **Data Engineering, Bioinformatics, and Healthcare Analytics**
+- 📍 Based in Toronto, Canada — open to remote
 
-**💊 Pharmaceutical & Drug Development**
-![Drug Design](https://img.shields.io/badge/Drug%20Design-34495E?style=flat&logo=flask&logoColor=white)
-![Computational Chemistry](https://img.shields.io/badge/Computational%20Chemistry-F39C12?style=flat&logo=chemistry&logoColor=white)
-![Biopharma](https://img.shields.io/badge/Biopharma-2C3E50?style=flat&logo=industry&logoColor=white)
-![Clinical Trials](https://img.shields.io/badge/Clinical%20Trials-1ABC9C?style=flat&logo=clipboard-check&logoColor=white)
-![Drug Discovery](https://img.shields.io/badge/Drug%20Discovery-9B59B6?style=flat&logo=search&logoColor=white)
+<br>
 
-**🤖 AI/ML in Healthcare**
-![Medical AI](https://img.shields.io/badge/Medical%20AI-FF6F00?style=flat&logo=brain&logoColor=white)
-![Clinical ML](https://img.shields.io/badge/Clinical%20ML-3498DB?style=flat&logo=robot&logoColor=white)
-![Health Informatics](https://img.shields.io/badge/Health%20Informatics-2ECC71?style=flat&logo=chart-bar&logoColor=white)
-![EHR Analytics](https://img.shields.io/badge/EHR%20Analytics-2980B9?style=flat&logo=database&logoColor=white)
+## Tech Stack
 
-**📍 Locations of Interest**
-![Toronto](https://img.shields.io/badge/Toronto-3498DB?style=flat&logo=location&logoColor=white)
-![Remote](https://img.shields.io/badge/Remote%20Work-2ECC71?style=flat&logo=home&logoColor=white)
-![Canada](https://img.shields.io/badge/Canada-FF0000?style=flat&logo=map&logoColor=white)
-![USA](https://img.shields.io/badge/USA-3C3B6E?style=flat&logo=map&logoColor=white)
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,r,postgres,aws,docker,terraform,git,bash&theme=dark" />
 
-### 📊 GitHub Stats
+<br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mtariqi&label=PROFILE%20VIEWS&color=blue)
+<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
+<img src="https://img.shields.io/badge/Nextflow-24C8DD?style=flat-square&logo=nextflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Snakemake-039475?style=flat-square" />
 
-**Md Tariqul Islam's GitHub Stats**
+</div>
 
-**Total Stars Earned:** 14  
-![14](https://geps.dev/progress/35?dangerColor=800000&warningColor=ff5e00&successColor=00cfe8)
+<br>
 
-**Total Commits:** 4.6k  
-![4.6k](https://geps.dev/progress/92?dangerColor=800000&warningColor=ff5e00&successColor=00cfe8)
+## Focus Areas
 
-**Total PRs:** 717  
-![717](https://geps.dev/progress/72?dangerColor=800000&warningColor=ff5e00&successColor=00cfe8)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Total Issues:** 8  
-![8](https://geps.dev/progress/8?dangerColor=800000&warningColor=ff5e00&successColor=00cfe8)
+**🏥 Healthcare & Precision Medicine**
+Clinical genomics, pharmacogenomics, EHR analytics, and AI/ML for healthcare — building the data infrastructure that turns clinical and genomic data into trustworthy, analytics-ready products.
 
-**Contributed to (last year):** 6  
-![6](https://geps.dev/progress/60?dangerColor=800000&warningColor=ff5e00&successColor=00cfe8)
+</td>
+<td width="50%" valign="top">
 
----
+**⚙️ Data Engineering at Scale**
+End-to-end ETL/ELT pipelines, streaming lakehouses (Kafka → Spark → dbt), and infrastructure-as-code (Terraform) — designed for reproducibility and production reliability.
 
-### 📈 Contribution Graph
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mtariqi&theme=github&hide_border=true&area=true&custom_title=Total%20Contribution%20Graph)
+**🧬 Computational Genomics**
+NGS pipeline development (SPAdes, Bowtie2, GATK), RNA-Seq differential expression (DESeq2), and HPC/containerized workflows on university research clusters.
 
----
+</td>
+<td width="50%" valign="top">
 
-### 📊 Data Visualization Tools
+**🤖 GenAI & LLM Engineering**
+RAG systems, LLM-powered healthcare applications, and AI agent pipelines built on LangChain and Amazon Bedrock.
 
-**Business Intelligence**
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+</td>
+</tr>
+</table>
 
-**Python Visualization**
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-![Plotly Express](https://img.shields.io/badge/Plotly%20Express-3F4F75?style=flat&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
-![Bokeh](https://img.shields.io/badge/Bokeh-FF7F0E?style=flat&logo=python&logoColor=white)
-![Altair](https://img.shields.io/badge/Altair-1F77B4?style=flat&logo=python&logoColor=white)
+<br>
 
-**R Visualization**
-![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=flat&logo=r&logoColor=white)
-![Plotly R](https://img.shields.io/badge/Plotly%20R-3F4F75?style=flat&logo=plotly&logoColor=white)
-![Shiny](https://img.shields.io/badge/Shiny-276DC3?style=flat&logo=r&logoColor=white)
+## GitHub Stats
 
-**Interactive Dashboards**
-![Dash](https://img.shields.io/badge/Dash-3F4F75?style=flat&logo=plotly&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-00A86B?style=flat&logo=gradio&logoColor=white)
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mtariqi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtariqi&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
-**Web Visualization**
-![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3.js&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chart.js&logoColor=white)
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mtariqi&theme=tokyonight&hide_border=true" />
+</div>
 
-**Genome Browsers & Bioinformatics Visualization**
-![IGV](https://img.shields.io/badge/IGV-8E44AD?style=flat&logo=microscope&logoColor=white)
-![UCSC Genome Browser](https://img.shields.io/badge/UCSC%20Genome%20Browser-3498DB?style=flat&logo=dna&logoColor=white)
-![Ensembl](https://img.shields.io/badge/Ensembl-2ECC71?style=flat&logo=database&logoColor=white)
-![NCBI Genome Workbench](https://img.shields.io/badge/NCBI%20Workbench-27AE60?style=flat&logo=flask&logoColor=white)
-![IGB - Integrated Genome Browser](https://img.shields.io/badge/IGB-9B59B6?style=flat&logo=search&logoColor=white)
-![JBrowse](https://img.shields.io/badge/JBrowse-FF6F00?style=flat&logo=compass&logoColor=white)
-![WashU Epigenome Browser](https://img.shields.io/badge/WashU%20Epigenome-2980B9?style=flat&logo=university&logoColor=white)
-![IGV.js](https://img.shields.io/badge/IGV.js-8E44AD?style=flat&logo=js&logoColor=white)
-![GenomeSpace](https://img.shields.io/badge/GenomeSpace-34495E?style=flat&logo=cloud&logoColor=white)
-![BioDalliance](https://img.shields.io/badge/BioDalliance-E74C3C?style=flat&logo=link&logoColor=white)
-![GnomAD Browser](https://img.shields.io/badge/GnomAD%20Browser-16A085?style=flat&logo=chart-bar&logoColor=white)
-![UCSC Xena](https://img.shields.io/badge/UCSC%20Xena-3498DB?style=flat&logo=chart-line&logoColor=white)
-![CBioPortal](https://img.shields.io/badge/cBioPortal-2C3E50?style=flat&logo=hospital&logoColor=white)
+<br>
 
----
-### 💻 Technical Expertise
-**Programming & Data Science** &nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![SAS](https://img.shields.io/badge/SAS-003366?style=flat&logo=sas&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+## Featured Work
 
-**Machine Learning & AI** &nbsp;
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-ESM--2%20%7C%20Claude-8A2BE2?style=flat&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented-6A0DAD?style=flat&logo=databricks&logoColor=white)
-![AI Agent](https://img.shields.io/badge/AI%20Agent-Agentic%20Pipelines-FF4500?style=flat&logo=probot&logoColor=white)
+| | |
+|---|---|
+| 🌐 **[Live Portfolio](https://mtariqi.github.io)** | Bioinformatics + data engineering project showcase |
+| ⚙️ **[CDC Healthcare Streaming ETL Pipeline](https://github.com/mtariqi/cdc-healthcare-streaming-etl-pipeline)** | Python · PostgreSQL · Airflow · Terraform |
+| 🏗️ **[NIH Clinical Trials Lakehouse Pipeline](https://github.com/mtariqi/nih-clinical-trials-lakehouse-pipeline)** | Kafka · Spark · dbt · MLflow · AWS |
 
-**Bioinformatics Core Tools** &nbsp;
-![STAR](https://img.shields.io/badge/STAR-Aligner-333333?style=flat&logoColor=white)
-![BWA](https://img.shields.io/badge/BWA-333333?style=flat&logoColor=white)
-![Bowtie2](https://img.shields.io/badge/Bowtie2-333333?style=flat&logoColor=white)
-![GATK](https://img.shields.io/badge/GATK-721817?style=flat&logoColor=white)
-![DESeq2](https://img.shields.io/badge/DESeq2-276DC3?style=flat&logo=r&logoColor=white)
-![Seurat](https://img.shields.io/badge/Seurat-2E86AB?style=flat&logoColor=white)
-![Scanpy](https://img.shields.io/badge/Scanpy-3776AB?style=flat&logo=python&logoColor=white)
+<br>
 
-**Workflow & Infrastructure** &nbsp;
-![Nextflow](https://img.shields.io/badge/Nextflow-3EAA2E?style=flat&logo=nextflow&logoColor=white)
-![Snakemake](https://img.shields.io/badge/Snakemake-3776AB?style=flat&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Apache NiFi](https://img.shields.io/badge/Apache%20NiFi-728E9B?style=flat&logo=apache&logoColor=white)
-![Apache Doris](https://img.shields.io/badge/Apache%20Doris-4479A1?style=flat&logo=apache&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-Vector%20DB-DC143C?style=flat&logo=databricks&logoColor=white)
-
-**Clinical & Pharmaceutical Tools** &nbsp;
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat&logo=sap&logoColor=white)
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
-
----
-### 🔬 What I Do
-
-- **Bioinformatics & Computational Biology**: Applying computational methods to genomics, transcriptomics, and proteomics
-- **AI/ML in Healthcare**: Developing intelligent systems for medical imaging, clinical data, and drug discovery
-- **Precision Medicine**: Working on personalized treatment approaches using genomic data
-- **Cancer Research**: Analyzing oncology datasets for biomarker discovery and therapeutic targets
-- **Pharmaceutical Applications**: Supporting drug design and clinical trial analytics
-- **LLM Engineering**: Building AI agents and language models for biomedical applications
-
----
-
-### 🚀 Featured Projects
-- **healthcare-genai-data-platform-nifi-spark-airflow-bedrock
-- **healthcare-rag-chatbot-langchain-bedrock
-- **cdc-healthcare-streaming-etl-pipeline
--**clinical_data_analysis
--**synthetic-variant-calling-benchmark
-- **[Genomic Variant Classifier](https://github.com/mtariqi/genomic-variant-classifier)**: ML pipeline for classifying pathogenic DNA variants
-- **[Brain Development Reproduction](https://github.com/mtariqi/developing-brain-reproduction-)**: Computational neuroscience project reproducing human brain atlas research
-- **[Data Science Portfolio](https://github.com/mtariqi/Data-Science-Bioinformatics-portfolio)**: Comprehensive showcase of AI/ML projects in clinical research, genomics, and medical imaging
-- **[EHR Analytics DORIS](https://github.com/mtariqi/ehr-analytics-doris)**: Electronic health records analytics platform
-- **[Classmate Connect](https://github.com/mtariqi/classmate-connect)**: Web application connecting graduate students
-
----
-
-### 📌 Currently Based
-
-**📍 Toronto, Canada** | **🎓 Northeastern University – Toronto Campus**
-
----
-
-⚡ **Fun fact**: Passionate about wanderlust and exploring new landscapes when not coding!
-
-*Open to Senior Data Scientist, Healthcare Data Engineering, Bioinformatics, and Healthcare AI roles focused on Python, PostgreSQL, AWS, ETL pipelines, and production AI systems and computational biology.*
-```
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F6E56,100:0A0F1E&height=100&section=footer" width="100%"/>
+</div>
