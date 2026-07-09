@@ -69,6 +69,25 @@ My long-term vision is to build intelligent computational systems that bridge bi
 
 ---
 
+# Scientific Contributions
+
+✔ Hybrid-CORE
+
+AI framework for rational drug combination discovery.
+
+✔ RTK/NRTK
+
+Discovery of compensatory kinase networks using TCGA.
+
+✔ Biomedical Agentic RAG
+
+LLM-powered biomedical evidence synthesis.
+
+✔ Foundation Models
+
+Transformer models for genomic sequences.
+---
+
 # ⚙️ Technology Stack
 
 ### Programming
