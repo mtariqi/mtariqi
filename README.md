@@ -164,14 +164,49 @@ Transformer models for genomic sequences.
 
 # 🚀 Featured Research Projects
 
-| Project | Description |
-|---------|-------------|
-| 🧬 **Hybrid-CORE** | Multi-agent AI framework for rational combination drug discovery in Triple-Negative Breast Cancer |
-| 🧬 **RTK/NRTK Multi-Omics Analysis** | AI-driven discovery of compensatory kinase networks using TCGA breast cancer datasets |
-| 🤖 **Biomedical Agentic RAG** | LLM-powered biomedical literature retrieval, evidence synthesis, and hypothesis generation |
-| 🧠 **Genomic Foundation Models** | Transformer architectures for genomic sequence modelling and variant effect prediction |
-| 🧬 **Cancer Multi-Omics Pipeline** | Integrated RNA-Seq, mutation, pathway, and clinical analyses using TCGA and CPTAC |
-| ⚙️ **Healthcare Streaming ETL Pipeline** | Production-ready healthcare data engineering platform using Airflow, PostgreSQL, and Terraform |
+🏥 NIH Clinical Trials Lakehouse
+
+Production healthcare data engineering platform
+
+GitHub
+
+https://github.com/mtariqi/nih-clinical-trials-lakehouse-pipeline
+
+🌍 CDC Healthcare Streaming ETL
+
+Healthcare streaming analytics pipeline
+
+https://github.com/mtariqi/cdc-healthcare-streaming-etl-pipeline
+
+🎯 TNBC Drug Discovery Pipeline
+
+AI-driven precision oncology
+
+https://github.com/mtariqi/tnbc-drug-discovery-pipeline
+
+🧬 TCGA-CPTAC Kafka Platform
+
+Large-scale cancer multi-omics
+
+https://github.com/mtariqi/tcga-cptac-kafka-bioinformatics
+
+🧪 Synthetic Variant Calling Benchmark
+
+Next-generation sequencing benchmarking
+
+https://github.com/mtariqi/synthetic-variant-calling-benchmark
+
+🤖 Genomic Foundation Models
+
+Transformer models for genomics
+
+https://github.com/mtariqi/genomic-foundation-models
+
+🦷 USAG1 Validation
+
+Computational target validation
+
+https://github.com/mtariqi/USAG1-Validation
 
 ---
 
@@ -204,6 +239,31 @@ Transformer models for genomic sequences.
 - ☁️ Scalable Scientific Computing
 
 ---
+# Education
+
+  MS Bioinformatics
+
+  MSc Molecular Biology
+
+  MS in Biotechnology
+
+  BSc in Biotechnology and Genetic Engineering
+
+# Certifications
+
+  Johns Hopkins University
+
+  Health Informatics
+
+  University of Toronto
+
+  Business Analytics
+
+  Project Management
+
+  Advanced Data Science
+
+  Cloud Computing
 
 # 🤝 Let's Collaborate
 
@@ -220,7 +280,38 @@ I welcome collaborations in
 - Scientific Software Development
 
 ---
+# Contact
 
+  LinkedIn
+
+  https://www.linkedin.com/in/mdtariqulscired
+
+  GitHub
+
+  https://github.com/mtariqi
+
+  Email
+
+  mtiumea@gmail.com
+
+# Future Roadmap
+  Healthcare Data Engineering
+        │
+        ▼
+  Public Health Analytics
+        │
+        ▼
+  Cancer Multi-omics
+        │
+        ▼
+  AI Drug Discovery
+        │
+        ▼
+  Foundation Models
+        │
+        ▼
+  Agentic AI for Precision Medicine
+  
 <div align="center">
 
 ### "Transforming Biological Data into Intelligent Therapeutic Discovery"
