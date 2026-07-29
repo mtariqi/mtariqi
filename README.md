@@ -245,9 +245,9 @@ https://github.com/mtariqi/USAG1-Validation
 
   MSc Molecular Biology
 
-  MS in Biotechnology
+  MS Biotechnology
 
-  BSc in Biotechnology and Genetic Engineering
+  BSc Biotechnology and Genetic Engineering
 
 # Certifications
 
@@ -265,6 +265,14 @@ https://github.com/mtariqi/USAG1-Validation
 
   Cloud Computing
 
+## 🌱 Currently Learning
+
+- Agentic AI
+- Foundation Models
+- Multi-agent Systems
+- Biomedical LLMs
+- Causal AI
+  
 # 🤝 Let's Collaborate
 
 I welcome collaborations in
