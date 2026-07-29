@@ -70,6 +70,30 @@ My long-term vision is to build intelligent computational systems that bridge bi
 ---
 
 # Scientific Contributions
+```
+Healthcare Data Engineering
+│
+├── NIH Clinical Trials Lakehouse
+├── CDC Healthcare Streaming ETL
+│
+
+Bioinformatics
+│
+├── TCGA CPTAC Kafka
+├── Synthetic Variant Calling
+├── USAG1 Validation
+│
+
+Artificial Intelligence
+│
+├── Genomic Foundation Models
+│
+
+Research
+│
+├── TNBC AI Drug Discovery
+├── RTK NRTK Project
+```
 
 ✔ Hybrid-CORE
 
