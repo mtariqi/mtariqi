@@ -1,6 +1,5 @@
-<div align="center">
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/4ff9780a-47e0-4302-85fe-d601c921ec2b" />
 
-curl -L -o ~/rtk_nrtk_tnbc/data/raw/funmap/all_pair_prediction_score.tsv.gz "https://zenodo.org/api/records/10080764/files/all_pair_prediction_score.tsv.gz/content"
 # 🧬 Building AI-driven Computational Methods for Precision Medicine
 
 <p>
