@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:081C15,100:1B4332&height=240&section=header&text=Md%20Tariqul%20Islam&fontSize=48&fontColor=E9F5F2&animation=fadeIn&fontAlignY=35&desc=Senior%20Research%20Scientist%20|%20Computational%20Biology%20|%20AI%20for%20Precision%20Medicine&descSize=18&descAlignY=55&descColor=CDEFE5" width="100%"/>
-
+curl -L -o ~/rtk_nrtk_tnbc/data/raw/funmap/all_pair_prediction_score.tsv.gz "https://zenodo.org/api/records/10080764/files/all_pair_prediction_score.tsv.gz/content"
 # 🧬 Building AI-driven Computational Methods for Precision Medicine
 
 <p>
