@@ -1,4 +1,4 @@
-<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/4ff9780a-47e0-4302-85fe-d601c921ec2b" />
+<img width="1983" height="793" alt="exec-78cb113d-b5dd-4f80-8d23-fe1dce2d1236" src="https://github.com/user-attachments/assets/029f7106-3c12-4491-abd7-2a615666f169" />
 
 # 🧬 Building AI-driven Computational Methods for Precision Medicine
 
