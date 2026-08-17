@@ -238,30 +238,18 @@ https://github.com/mtariqi/USAG1-Validation
 
 ---
 # Education
-
-  MS Bioinformatics
-
-  MSc Molecular Biology
-
-  MS Biotechnology
-
-  BSc Biotechnology and Genetic Engineering
+ - Advanced diploma in Data Science and Data Engineering
+ - MS Bioinformatics
+ - MSc Molecular Biology
+ - MS Biotechnology
+ - BSc Biotechnology and Genetic Engineering
 
 # Certifications
 
-  Johns Hopkins University
-
-  Health Informatics
-
-  University of Toronto
-
-  Business Analytics
-
-  Project Management
-
-  Advanced Data Science
-
-  Cloud Computing
+  - Health Informatics (Johns Hopkins University)
+  - Business Analytics- Data Driven Decision Making (University of Toronto)
+  - Project Management
+  - Cloud Computing
 
 ## 🌱 Currently Learning
 
