@@ -206,6 +206,17 @@ Computational target validation
 
 https://github.com/mtariqi/USAG1-Validation
 
+
+HYDRO-FLOW-AI
+<p> <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg"> <img alt="Python 3.10+" src="https://img.shields.io/badge/python-3.10%2B-blue.svg"> <img alt="Stage 1: reconstruction done" src="https://img.shields.io/badge/stage%201-reconstruction%20done-2d6a4f.svg"> </p>
+
+Extreme-aware AI framework for streamflow prediction and National Water Model (NWM) bias correction.
+
+An independent research project that extends data-processing workflows from the Alabama Water Institute's NWM-ML project, applied specifically to correcting systematic NWM forecast bias at individual USGS gauges — with the model explicitly evaluated on its ability to represent extreme, high-flow events, not just average-case accuracy.
+
+Leakage-safe temporal train/validation/test design (no random splits on time-series data)
+Evaluation beyond RMSE/MAE/NSE: Q95/Q99 error, peak-magnitude error, extreme-event detection
+Planned: XGBoost residual correction, quantile-regression uncertainty intervals, Transformer/LSTM and river-network graph neural network extensions
 ---
 
 # 📊 GitHub Statistics
@@ -235,6 +246,7 @@ https://github.com/mtariqi/USAG1-Validation
 - ⚡ Agentic AI for Scientific Discovery
 - 🔬 Cancer Multi-Omics
 - ☁️ Scalable Scientific Computing
+- Hydrology (Extreme-aware AI framework for streamflow prediction and National Water Model (NWM) bias correction.)
 
 ---
 # Education
