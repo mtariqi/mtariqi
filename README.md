@@ -1,4 +1,3 @@
-Your current GitHub connection still has read-only access, so I cannot publish the change directly. Replace the existing `README.md` with this polished version:
 
 ```markdown
 <div align="center">
@@ -18,7 +17,7 @@ Your current GitHub connection still has read-only access, so I cannot publish t
 [![Portfolio](https://img.shields.io/badge/Research_Portfolio-000000?style=for-the-badge&logo=githubpages)](https://mtariqi.github.io)
 
 </div>
-
+```
 ---
 
 ## About Me
