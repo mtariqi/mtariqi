@@ -1,327 +1,255 @@
-<img width="1983" height="793" alt="exec-78cb113d-b5dd-4f80-8d23-fe1dce2d1236" src="https://github.com/user-attachments/assets/029f7106-3c12-4491-abd7-2a615666f169" />
+Your current GitHub connection still has read-only access, so I cannot publish the change directly. Replace the existing `README.md` with this polished version:
 
-# 🧬 Building AI-driven Computational Methods for Precision Medicine
+```markdown
+<div align="center">
 
-<p>
-<a href="https://github.com/mtariqi">
-<img src="https://komarev.com/ghpvc/?username=mtariqi&style=for-the-badge&color=0F766E"/>
-</a>
+<img width="1983" height="793"
+     alt="AI-driven computational biology and precision medicine"
+     src="https://github.com/user-attachments/assets/029f7106-3c12-4491-abd7-2a615666f169" />
 
-<a href="https://www.linkedin.com/in/mdtariqulscired">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+# 🧬 AI-Driven Computational Biology for Precision Medicine
 
-<a href="https://orcid.org/0009-0009-6545-8040">
-<img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid"/>
-</a>
+**Bioinformatics · Cancer Genomics · Healthcare Data Engineering · Scientific Machine Learning**
 
-<a href="mailto:mtiumea@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://mtariqi.github.io">
-<img src="https://img.shields.io/badge/Research_Portfolio-000000?style=for-the-badge&logo=githubpages"/>
-</a>
-
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=mtariqi&style=for-the-badge&color=0F766E)](https://github.com/mtariqi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdtariqulscired)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-6545-8040)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mtiumea@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Research_Portfolio-000000?style=for-the-badge&logo=githubpages)](https://mtariqi.github.io)
 
 </div>
 
 ---
 
-# 👨‍🔬 About Me
+## About Me
 
-I am a **Senior Research Scientist** specializing in **Computational Biology, Bioinformatics, Bio-statistics, Artificial Intelligence, and Precision Medicine**.
+I am a **Research Scientist, Bioinformatician, and Data Scientist** working at the intersection of **computational biology, cancer genomics, artificial intelligence, biostatistics, and precision medicine**.
 
-My research combines genomics, transcriptomics, multi-omics integration, machine learning, and large language models (LLMs) to transform complex biological data into actionable insights for biomarker discovery, therapeutic target identification, and AI-assisted drug discovery.
+My research combines genomics, transcriptomics, multi-omics integration, machine learning, and large language models to transform complex biological and health data into evidence for:
 
-Currently, I work as a **Bioinformatician at the University of Arkansas for Medical Sciences (UAMS)**, where I develop scalable NGS pipelines, AI-driven computational workflows, and reproducible bioinformatics systems using TCGA and CPTAC datasets to advance cancer genomics research.
+- Biomarker discovery
+- Therapeutic-target prioritization
+- Precision oncology
+- AI-assisted drug discovery
+- Reproducible biomedical research
 
-My long-term vision is to build intelligent computational systems that bridge biology and artificial intelligence to accelerate scientific discovery and improve patient outcomes.
+I currently contribute to cancer-genomics research as a **Bioinformatician at the University of Arkansas for Medical Sciences (UAMS)**, developing scalable NGS workflows and analyzing TCGA and CPTAC datasets. I am also pursuing an **MSc in Bioinformatics at Northeastern University**, strengthening my expertise in translational bioinformatics, machine learning, and trustworthy biomedical AI.
 
----
+Beyond biomedical research, I independently reproduced and extended machine-learning workflows for streamflow prediction and National Water Model bias correction. My **HYDRO-FLOW-AI** project builds on open workflows from the Alabama Water Institute’s NWM-ML project and research involving a University of West Florida researcher, while remaining an independent project with no claim of institutional affiliation.
 
-# 🔬 Research Interests
-
-🧬 Computational Biology
-
-🧬 Cancer Genomics
-
-🧬 Precision Oncology
-
-🧬 Bioinformatics
-
-🧬 Multi-Omics Integration
-
-💊 Drug Discovery
-
-🤖 Artificial Intelligence
-
-🧠 Machine Learning & Deep Learning
-
-📚 Large Language Models (LLMs)
-
-⚡ Agentic AI
-
-☁️ Scientific Computing
+My long-term goal is to build trustworthy computational systems that connect biological evidence, clinical data, and artificial intelligence to accelerate scientific discovery and improve patient outcomes.
 
 ---
 
-# Scientific Contributions
-```
-Healthcare Data Engineering
-│
-├── NIH Clinical Trials Lakehouse
-├── CDC Healthcare Streaming ETL
-│
+## Research Interests
 
-Bioinformatics
-│
-├── TCGA CPTAC Kafka
-├── Synthetic Variant Calling
-├── USAG1 Validation
-│
+- 🧬 Computational biology and bioinformatics
+- 🎗️ Cancer genomics and precision oncology
+- 🧪 NGS analysis and variant interpretation
+- 🔗 Multi-omics integration
+- 💊 Computational drug discovery
+- 🤖 Artificial intelligence and deep learning
+- 📚 Biomedical large language models
+- ⚡ Agentic AI and retrieval-augmented generation
+- ☁️ Cloud-based scientific computing
+- 🏥 Healthcare data engineering
+- 🌊 Scientific machine learning for hydrology
 
-Artificial Intelligence
-│
-├── Genomic Foundation Models
-│
-
-Research
-│
-├── TNBC AI Drug Discovery
-├── RTK NRTK Project
-```
-
-✔ Hybrid-CORE
-
-AI framework for rational drug combination discovery.
-
-✔ RTK/NRTK
-
-Discovery of compensatory kinase networks using TCGA.
-
-✔ Biomedical Agentic RAG
-
-LLM-powered biomedical evidence synthesis.
-
-✔ Foundation Models
-
-Transformer models for genomic sequences.
 ---
 
-# ⚙️ Technology Stack
+## Featured Research Projects
 
-### Programming
+| Project | Research focus | Repository |
+|---|---|---|
+| **RTK/NRTK TNBC** | Patient-level kinase alterations and drug-target prioritization in triple-negative breast cancer | [View project](https://github.com/mtariqi/rtk_nrtk_tnbc) |
+| **HYDRO-FLOW-AI** | Extreme-aware streamflow prediction and National Water Model bias correction | [View project](https://github.com/mtariqi/HYDRO-FLOW-AI) |
+| **NIH Clinical Trials Lakehouse** | Reproducible healthcare data engineering for clinical-trial analytics | [View project](https://github.com/mtariqi/nih-clinical-trials-lakehouse-pipeline) |
+| **CDC Healthcare Streaming ETL** | Streaming ingestion, validation, transformation, and public-health analytics | [View project](https://github.com/mtariqi/cdc-healthcare-streaming-etl-pipeline) |
+| **TCGA–CPTAC Kafka Platform** | Event-driven processing of large-scale cancer multi-omics data | [View project](https://github.com/mtariqi/tcga-cptac-kafka-bioinformatics) |
+| **Synthetic Variant Calling Benchmark** | Reproducible benchmarking of NGS variant-calling workflows | [View project](https://github.com/mtariqi/synthetic-variant-calling-benchmark) |
+| **Genomic Foundation Models** | Transformer-based representation learning for genomic sequences | [View project](https://github.com/mtariqi/genomic-foundation-models) |
+| **USAG1 Validation** | Computational evidence synthesis and therapeutic-target validation | [View project](https://github.com/mtariqi/USAG1-Validation) |
 
-<p>
+---
 
-<img src="https://skillicons.dev/icons?i=python,r,bash,git,linux"/>
+## 🌊 HYDRO-FLOW-AI
 
-</p>
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/mtariqi/HYDRO-FLOW-AI)
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
+![Stage 1](https://img.shields.io/badge/Stage%201-Reconstruction%20Complete-2D6A4F.svg)
+
+**HYDRO-FLOW-AI** is an independent, extreme-aware machine-learning framework for streamflow prediction and site-specific National Water Model bias correction at USGS gauges.
+
+### Current capabilities
+
+- Leakage-safe temporal training, validation, and testing
+- Historical USGS streamflow and climate-data integration
+- Site-specific model-performance diagnostics
+- Evaluation using RMSE, MAE, bias, and NSE
+- Q95 and Q99 high-flow evaluation
+- Peak-magnitude error analysis
+- Extreme-event detection and threshold-based assessment
+
+### Planned extensions
+
+- XGBoost residual bias correction
+- Quantile-regression uncertainty intervals
+- LSTM and Transformer-based forecasting
+- River-network graph neural networks
+- Explainability and model-drift monitoring
+
+---
+
+## 🧪 Selected Scientific Contributions
+
+### Hybrid-CORE
+
+Computational framework for rational drug-combination prioritization using complementary biological and pharmacological evidence.
+
+### RTK/NRTK Network Analysis
+
+Identification of compensatory kinase alteration patterns and potential drug-target combinations using TCGA cancer-genomics data.
+
+### Biomedical Agentic RAG
+
+LLM-supported retrieval, evaluation, and synthesis of biomedical evidence for research decision support.
+
+### Genomic Foundation Models
+
+Transformer-based representation-learning approaches for genomic sequences and downstream biological prediction.
+
+### Healthcare Data Engineering
+
+Reproducible lakehouse and streaming architectures for clinical-trial, public-health, and biomedical data.
+
+---
+
+## ⚙️ Technology Stack
+
+### Programming and Analytics
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ### Artificial Intelligence
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
-
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=flat-square&logo=amazonaws"/>
-
-</p>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=flat-square&logo=amazonaws)
 
 ### Bioinformatics
 
-<p>
+![GATK](https://img.shields.io/badge/GATK-2E8B57?style=flat-square)
+![BWA](https://img.shields.io/badge/BWA-006699?style=flat-square)
+![DeepVariant](https://img.shields.io/badge/DeepVariant-0F9D58?style=flat-square)
+![Snakemake](https://img.shields.io/badge/Snakemake-039475?style=flat-square)
+![Nextflow](https://img.shields.io/badge/Nextflow-24C8DD?style=flat-square)
 
-<img src="https://img.shields.io/badge/GATK-2E8B57?style=flat-square"/>
+### Cloud and Infrastructure
 
-<img src="https://img.shields.io/badge/BWA-006699?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/DeepVariant-0F9D58?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Snakemake-039475?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Nextflow-24C8DD?style=flat-square"/>
-
-</p>
-
-### Cloud & Infrastructure
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=aws,docker,terraform,postgres"/>
-
-</p>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
-# 🚀 Featured Research Projects
+## 📈 Current Research Focus
 
-🏥 NIH Clinical Trials Lakehouse
-
-Production healthcare data engineering platform
-
-GitHub
-
-https://github.com/mtariqi/nih-clinical-trials-lakehouse-pipeline
-
-🌍 CDC Healthcare Streaming ETL
-
-Healthcare streaming analytics pipeline
-
-https://github.com/mtariqi/cdc-healthcare-streaming-etl-pipeline
-
-🎯 TNBC Drug Discovery Pipeline
-
-AI-driven precision oncology
-
-https://github.com/mtariqi/tnbc-drug-discovery-pipeline
-
-🧬 TCGA-CPTAC Kafka Platform
-
-Large-scale cancer multi-omics
-
-https://github.com/mtariqi/tcga-cptac-kafka-bioinformatics
-
-🧪 Synthetic Variant Calling Benchmark
-
-Next-generation sequencing benchmarking
-
-https://github.com/mtariqi/synthetic-variant-calling-benchmark
-
-🤖 Genomic Foundation Models
-
-Transformer models for genomics
-
-https://github.com/mtariqi/genomic-foundation-models
-
-🦷 USAG1 Validation
-
-Computational target validation
-
-https://github.com/mtariqi/USAG1-Validation
-
-
-HYDRO-FLOW-AI
-<p> <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg"> <img alt="Python 3.10+" src="https://img.shields.io/badge/python-3.10%2B-blue.svg"> <img alt="Stage 1: reconstruction done" src="https://img.shields.io/badge/stage%201-reconstruction%20done-2d6a4f.svg"> </p>
-
-Extreme-aware AI framework for streamflow prediction and National Water Model (NWM) bias correction.
-
-An independent research project that extends data-processing workflows from the Alabama Water Institute's NWM-ML project, applied specifically to correcting systematic NWM forecast bias at individual USGS gauges — with the model explicitly evaluated on its ability to represent extreme, high-flow events, not just average-case accuracy.
-
-Leakage-safe temporal train/validation/test design (no random splits on time-series data)
-Evaluation beyond RMSE/MAE/NSE: Q95/Q99 error, peak-magnitude error, extreme-event detection
-Planned: XGBoost residual correction, quantile-regression uncertainty intervals, Transformer/LSTM and river-network graph neural network extensions
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mtariqi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtariqi&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mtariqi&theme=tokyonight&hide_border=true"/>
-
-</div>
+- AI for precision oncology
+- Computational drug discovery
+- Cancer multi-omics
+- Biomedical large language models
+- Genomic foundation models
+- Agentic AI for scientific discovery
+- Trustworthy and explainable AI
+- Scalable scientific computing
+- Extreme-aware streamflow forecasting
 
 ---
 
-# 📈 Current Research Focus
+## 🎓 Education
 
-- 🧬 AI for Precision Oncology
-- 💊 Computational Drug Discovery
-- 🧠 Foundation Models for Genomics
-- 📚 Biomedical Large Language Models
-- ⚡ Agentic AI for Scientific Discovery
-- 🔬 Cancer Multi-Omics
-- ☁️ Scalable Scientific Computing
-- Hydrology (Extreme-aware AI framework for streamflow prediction and National Water Model (NWM) bias correction.)
+- **MSc Bioinformatics** — Northeastern University *(in progress)*
+- **MSc Molecular Biology (Bioinformatics)** — Umeå University
+- **BSc Biotechnology and Genetic Engineering** — Khulna University
+- **Advanced Diploma in Data Science and Data Engineering**
+- **Graduate Certificate in Project Management**
 
 ---
-# Education
- - Advanced diploma in Data Science and Data Engineering
- - MS Bioinformatics
- - MSc Molecular Biology
- - MS Biotechnology
- - BSc Biotechnology and Genetic Engineering
 
-# Certifications
+## 📜 Professional Development
 
-  - Health Informatics (Johns Hopkins University)
-  - Business Analytics- Data Driven Decision Making (University of Toronto)
-  - Project Management
-  - Cloud Computing
+- Health Informatics — Johns Hopkins University
+- Business Analytics and Data-Driven Decision-Making — University of Toronto
+- Project Management
+- Cloud Computing
+- Machine Learning and Data Science
+
+---
 
 ## 🌱 Currently Learning
 
-- Agentic AI
-- Foundation Models
-- Multi-agent Systems
-- Biomedical LLMs
-- Causal AI
-  
-# 🤝 Let's Collaborate
-
-I welcome collaborations in
-
-- Computational Biology
-- Bioinformatics
-- Precision Medicine
-- Cancer Genomics
-- Artificial Intelligence
-- Drug Discovery
-- Machine Learning
-- Healthcare AI
-- Scientific Software Development
+- Trustworthy and causal AI
+- Agentic and multi-agent systems
+- Biomedical large language models
+- Genomic foundation models
+- Scalable multi-omics analytics
 
 ---
-# Contact
 
-  LinkedIn
+## 📊 GitHub Statistics
 
-  https://www.linkedin.com/in/mdtariqulscired
-
-  GitHub
-
-  https://github.com/mtariqi
-
-  Email
-
-  mtiumea@gmail.com
-
-# Future Roadmap
-  Healthcare Data Engineering
-        │
-        ▼
-  Public Health Analytics
-        │
-        ▼
-  Cancer Multi-omics
-        │
-        ▼
-  AI Drug Discovery
-        │
-        ▼
-  Foundation Models
-        │
-        ▼
-  Agentic AI for Precision Medicine
-  
 <div align="center">
 
-### "Transforming Biological Data into Intelligent Therapeutic Discovery"
+<img height="170"
+     alt="GitHub statistics"
+     src="https://github-readme-stats.vercel.app/api?username=mtariqi&show_icons=true&hide_border=true&count_private=true" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B4332,100:081C15&height=120&section=footer"/>
+<img height="170"
+     alt="Most-used programming languages"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtariqi&layout=compact&hide_border=true" />
 
 </div>
+
+---
+
+## 🤝 Collaboration
+
+I welcome research and open-source collaboration in:
+
+- Computational biology and bioinformatics
+- Cancer genomics and precision medicine
+- Biomedical artificial intelligence
+- Computational drug discovery
+- Healthcare data engineering
+- Scientific machine learning
+- Reproducible research software
+
+---
+
+<div align="center">
+
+### Transforming biological and health data into evidence for intelligent therapeutic discovery
+
+[LinkedIn](https://www.linkedin.com/in/mdtariqulscired) ·
+[ORCID](https://orcid.org/0009-0009-6545-8040) ·
+[Portfolio](https://mtariqi.github.io) ·
+[Email](mailto:mtiumea@gmail.com)
+
+<img alt="Footer"
+     src="https://capsule-render.vercel.app/api?type=waving&color=0:1B4332,100:081C15&height=120&section=footer" />
+
+</div>
+```
+
+Important: I changed **Senior Research Scientist** to **Research Scientist, Bioinformatician, and Data Scientist**. Use “Senior Research Scientist” only if it is your documented current job title.
