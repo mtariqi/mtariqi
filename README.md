@@ -31,7 +31,7 @@
 
 # 👨‍🔬 About Me
 
-I am a **Senior Research Scientist** specializing in **Computational Biology, Bioinformatics, Artificial Intelligence, and Precision Medicine**.
+I am a **Senior Research Scientist** specializing in **Computational Biology, Bioinformatics, Bio-statistics, Artificial Intelligence, and Precision Medicine**.
 
 My research combines genomics, transcriptomics, multi-omics integration, machine learning, and large language models (LLMs) to transform complex biological data into actionable insights for biomarker discovery, therapeutic target identification, and AI-assisted drug discovery.
 
