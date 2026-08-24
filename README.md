@@ -18,7 +18,7 @@
 
 ---
 
-## 👨‍🔬 About Me
+## About Me
 
 I am a **Research Scientist, Bioinformatician, and Data Scientist** working at the intersection of **computational biology, cancer genomics, artificial intelligence, biostatistics, and precision medicine**.
 
@@ -38,7 +38,7 @@ My long-term goal is to build trustworthy computational systems that connect bio
 
 ---
 
-## 🔬 Research Interests
+## Research Interests
 
 - 🧬 Computational biology and bioinformatics
 - 🎗️ Cancer genomics and precision oncology
@@ -54,7 +54,7 @@ My long-term goal is to build trustworthy computational systems that connect bio
 
 ---
 
-## 🚀 Featured Research Projects
+## Featured Research Projects
 
 | Project | Research focus | Repository |
 |---|---|---|
