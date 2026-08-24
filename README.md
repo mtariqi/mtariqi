@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
 <img width="1983" height="793"
@@ -16,10 +15,10 @@
 [![Portfolio](https://img.shields.io/badge/Research_Portfolio-000000?style=for-the-badge&logo=githubpages)](https://mtariqi.github.io)
 
 </div>
-```
+
 ---
 
-## About Me
+## 👨‍🔬 About Me
 
 I am a **Research Scientist, Bioinformatician, and Data Scientist** working at the intersection of **computational biology, cancer genomics, artificial intelligence, biostatistics, and precision medicine**.
 
@@ -39,7 +38,7 @@ My long-term goal is to build trustworthy computational systems that connect bio
 
 ---
 
-## Research Interests
+## 🔬 Research Interests
 
 - 🧬 Computational biology and bioinformatics
 - 🎗️ Cancer genomics and precision oncology
@@ -55,7 +54,7 @@ My long-term goal is to build trustworthy computational systems that connect bio
 
 ---
 
-## Featured Research Projects
+## 🚀 Featured Research Projects
 
 | Project | Research focus | Repository |
 |---|---|---|
@@ -248,6 +247,3 @@ I welcome research and open-source collaboration in:
      src="https://capsule-render.vercel.app/api?type=waving&color=0:1B4332,100:081C15&height=120&section=footer" />
 
 </div>
-```
-
-Important: I changed **Senior Research Scientist** to **Research Scientist, Bioinformatician, and Data Scientist**. Use “Senior Research Scientist” only if it is your documented current job title.
