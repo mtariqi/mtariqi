@@ -1,211 +1,193 @@
-# Md Tariqul Islam
-**AI/ML Engineer | Bioinformatics Researcher | Data Scientist**
+<div align="center">
 
-📍 Toronto, Ontario, Canada  
-📧 tariqul@scired.com | 🔗 linkedin.com/in/mdtariqulscired  
-🌐 scired.com | 📱 647-331-2675  
+Md Tariqul Islam
 
----
+Research Scientist · Bioinformatician · Data Scientist
 
-## 🎓 Current Status
-![Northeastern University](https://img.shields.io/badge/Northeastern%20University-CC0000?style=flat&logo=university&logoColor=white)  
-**Graduate Student, Bioinformatics Department**  
-*Current · Toronto Campus*  
-- Master's program in Bioinformatics with focus on computational biology and AI/ML applications
-- Specializing in genomic data analysis and precision medicine
-- Research interests: AI-driven drug discovery, clinical genomics, multi-omics integration
+Toronto, Ontario, Canada
+GitHub · LinkedIn · ORCID · Research Portfolio · Email
 
----
 
-## 🔍 Career Focus
-Seeking full-time opportunities in:
-- ![Bioinformatics](https://img.shields.io/badge/Bioinformatics-2ECC71?style=flat&logo=dna&logoColor=white)
-- ![Precision Medicine](https://img.shields.io/badge/Precision%20Medicine-2980B9?style=flat&logo=hospital&logoColor=white)
-- ![Cancer Research](https://img.shields.io/badge/Cancer%20Research-E74C3C?style=flat&logo=medical-bag&logoColor=white)
-- ![Drug Design](https://img.shields.io/badge/Drug%20Design-34495E?style=flat&logo=flask&logoColor=white)
-- ![Clinical Genomics](https://img.shields.io/badge/Clinical%20Genomics-8E44AD?style=flat&logo=stethoscope&logoColor=white)
 
----
 
-## 💼 Professional Experience
 
-### ![Scired](https://img.shields.io/badge/SCIRED-2C3E50?style=flat&logo=microscope&logoColor=white) **Scientist (Data Science and Data Engineering)**
-**Scired: Scientific Research & Development** | *Jun 2023 - Present*  
-*United States · Hybrid*
 
-**Key Achievements:**
-- Led development of blockchain-based public health surveillance system with dynamic pricing models
-- Implemented predictive analytics using GCP and BigQuery, improving operational efficiency by 30%
-- Designed data privacy frameworks compliant with healthcare regulations
+</div>
 
-**Technologies:** ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+Professional Profile
 
-### ![Statistics Canada](https://img.shields.io/badge/Statistics%20Canada-0052A5?style=flat&logo=government&logoColor=white) **Operations Officer (Data Science & CMT)**
-**Statistics Canada** | *Jun 2022 - May 2023*  
-*Toronto, Ontario, Canada · On-site*
+Research scientist and bioinformatician with a foundation in molecular biology and extensive experience across data science, clinical research, pharmaceutical microbiology, public-sector analytics, and computational research. Develops reproducible workflows for cancer multi-omics, biomarker and therapeutic-target prioritization, NGS analysis, healthcare data engineering, and scientific machine learning.
 
-**Key Achievements:**
-- Automated data processing workflows, reducing manual effort by 40%
-- Designed and implemented GCP data pipelines with BigQuery for real-time analytics
-- Developed predictive models using Python and scikit-learn for business forecasting
+Currently pursuing an MSc in Bioinformatics at Northeastern University. Research interests include precision oncology, bulk and single-cell transcriptomics, spatial biology, trustworthy biomedical AI, agentic research systems, and cloud/HPC-scale analysis.
 
-**Technologies:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)
+Core Expertise
 
-### ![IQVIA](https://img.shields.io/badge/IQVIA-00A3E0?style=flat&logo=medical-cross&logoColor=white) **Lab Clinical Data Analyst**
-**IQVIA Canada** | *Mar 2022 - Jun 2022*  
-*Toronto, Ontario, Canada · On-site*
+Domain
 
-**Key Achievements:**
-- Managed clinical trials database for 5+ pharmaceutical studies
-- Ensured ICH E6 GCP guideline compliance across all data processes
-- Automated data validation workflows using Python and SAS
+Methods and technologies
 
-**Technologies:** ![SAS](https://img.shields.io/badge/SAS-0A2E5B?style=flat&logo=sas&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![GCP](https://img.shields.io/badge/Good%20Clinical%20Practice-00A3E0?style=flat&logo=medical-cross&logoColor=white)
+Bioinformatics
 
-### ![Apotex](https://img.shields.io/badge/Apotex-1E90FF?style=flat&logo=pill&logoColor=white) **Lab Technician**
-**Apotex Inc.** | *Apr 2018 - May 2019*  
-*North York, Ontario, Canada · On-site*
+RNA-seq, variant analysis, TCGA/CPTAC, multi-omics integration, survival analysis, pathway and network analysis
 
-**Key Achievements:**
-- Conducted DNA/RNA sequencing and genome analysis for drug development
-- Implemented Six Sigma methodologies, reducing raw material usage by 1%
-- Developed lab quality training plan, reducing new material claims by 15%
+Machine learning
 
-**Technologies:** ![DNA Sequencing](https://img.shields.io/badge/DNA%20Sequencing-3498DB?style=flat&logo=dna&logoColor=white) ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat&logo=sap&logoColor=white) ![Six Sigma](https://img.shields.io/badge/Six%20Sigma-8E44AD?style=flat&logo=chart-line&logoColor=white)
+scikit-learn, PyTorch, TensorFlow, XGBoost, deep learning, model evaluation, explainability
 
----
+Data engineering
 
-## 🎓 Education & Research
+Python, R, SQL, SAS, Bash, Spark, Kafka, Airflow, dbt, reproducible ETL/ELT pipelines
 
-### ![Northeastern University](https://img.shields.io/badge/Northeastern%20University-CC0000?style=flat&logo=university&logoColor=white) **M.S. in Bioinformatics**
-*Current · Toronto Campus*
-- Specialization: AI/ML applications in genomics and precision medicine
-- Relevant Coursework: Statistical Genomics, Computational Biology, Machine Learning in Healthcare
+Cloud and HPC
 
-### ![University of Toronto](https://img.shields.io/badge/University%20of%20Toronto-002A5C?style=flat&logo=university&logoColor=white) **Business Analytics Certificate**
-*Data Driven Decision Making · 2021*
-- Association with Data Science Institute, University of Toronto
-- Focus: Advanced analytics and predictive modeling
+AWS, Azure, GCP, Linux, SLURM/HPC, Docker, Kubernetes, Terraform
 
-### ![Umeå University](https://img.shields.io/badge/Umeå%20University-004B87?style=flat&logo=academic&logoColor=white) **M.S. in Molecular Biology**
-*Jan 2010 - Nov 2011 · Umeå, Sweden*
-- Thesis: Molecular genetic analysis of Type VI secretion system in Vibrio cholerae
-- Research: sRNA regulation and protein expression analysis
+NGS tooling
 
----
+BWA, GATK, DeepVariant, samtools, bcftools, BEDTools, FastQC, MultiQC, Nextflow, Snakemake
 
-## 🛠️ Technical Expertise
+Analytics
 
-### **Programming & Data Science**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![SAS](https://img.shields.io/badge/SAS-0A2E5B?style=flat&logo=sas&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+Biostatistics, cohort construction, predictive modeling, Power BI, Tableau, Plotly, ggplot2
 
-### **Machine Learning & AI**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+Biomedical AI
 
-### **Bioinformatics Tools**
-![STAR](https://img.shields.io/badge/STAR-2C3E50?style=flat&logo=gene&logoColor=white)
-![BWA](https://img.shields.io/badge/BWA-8E44AD?style=flat&logo=dna&logoColor=white)
-![GATK](https://img.shields.io/badge/GATK-2ECC71?style=flat&logo=shield&logoColor=white)
-![DESeq2](https://img.shields.io/badge/DESeq2-8E44AD?style=flat&logo=chart-line&logoColor=white)
-![Seurat](https://img.shields.io/badge/Seurat-2C3E50?style=flat&logo=cell&logoColor=white)
-![Nextflow](https://img.shields.io/badge/Nextflow-00B2A9?style=flat&logo=nextflow&logoColor=white)
+LLMs, retrieval-augmented generation, LangChain, LlamaIndex, biomedical evidence synthesis
 
-### **Data Visualization**
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=flat&logo=r&logoColor=white)
+Selected Research and Engineering Projects
 
-### **Cloud & Infrastructure**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+TNBC RTK/NRTK Drug-Discovery Pipeline
 
-### **Genome Browsers**
-![IGV](https://img.shields.io/badge/IGV-8E44AD?style=flat&logo=microscope&logoColor=white)
-![UCSC](https://img.shields.io/badge/UCSC%20Browser-3498DB?style=flat&logo=dna&logoColor=white)
-![Ensembl](https://img.shields.io/badge/Ensembl-2ECC71?style=flat&logo=database&logoColor=white)
+Integrates TCGA/CPTAC molecular evidence, STRING network topology, DepMap CRISPR essentiality, survival evidence, and druggability data.
 
----
+Prioritizes kinase targets and rational drug regimens for triple-negative breast cancer.
 
-## 🏆 Certifications
+Extends patient-level analysis into cohort-scale survival, subtyping, and biomarker-discovery tracks.
 
-![SAP Certified](https://img.shields.io/badge/SAP%20Certified-0FAAFF?style=flat&logo=sap&logoColor=white) **SAP Certified Application Professional - Logistics Execution & Warehouse Management**
+HYDRO-FLOW-AI
 
-![Microsoft Azure](https://img.shields.io/badge/Azure%20Certified-0078D4?style=flat&logo=microsoftazure&logoColor=white) **Developing Microsoft Azure Solutions**
+Reproducible scientific-ML framework for streamflow prediction and National Water Model bias correction.
 
-![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6F00?style=flat&logo=openai&logoColor=white) **Generative AI: Working with Large Language Models**
+Includes leakage-safe temporal evaluation, site-level diagnostics, extreme-flow assessment, and Q95/Q99 analysis.
 
-![Clinical Data](https://img.shields.io/badge/Clinical%20Data%20Analysis-00A3E0?style=flat&logo=clipboard-check&logoColor=white) **Clinical Data Analysis with SAS**
+Independently reproduces and extends open National Water Model machine-learning workflows.
 
-![Lab Safety](https://img.shields.io/badge/Lab%20Safety-27AE60?style=flat&logo=shield&logoColor=white) **Laboratory Safety Certification**
+NIH Clinical Trials Lakehouse
 
----
+Reproducible data-engineering architecture for ingesting, validating, transforming, and analyzing clinical-trial data.
 
-## 🚀 Featured Projects
+Demonstrates scalable healthcare analytics, data-quality controls, and cloud-ready pipeline design.
 
-### **Genomic Variant Classifier**
-*Machine Learning Pipeline for Pathogenic DNA Variant Classification*
-- Developed ML pipeline using Python and scikit-learn for variant pathogenicity prediction
-- Achieved 92% accuracy in classifying pathogenic vs. benign variants
-- Implemented feature engineering for genomic sequence data
+TCGA–CPTAC Kafka Bioinformatics Platform
 
-**Tech:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+Event-driven architecture for processing cancer genomics and proteomics data.
 
-### **Brain Development Reproduction**
-*Computational Neuroscience & Human Brain Atlas Modeling*
-- Reproduced human brain development atlas using single-cell RNA-seq data
-- Implemented dimensionality reduction and clustering algorithms
-- Published findings in computational neuroscience research
+Connects streaming infrastructure with reproducible multi-omics analysis workflows.
 
-**Tech:** ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) ![Seurat](https://img.shields.io/badge/Seurat-2C3E50?style=flat&logo=cell&logoColor=white) ![Single-cell](https://img.shields.io/badge/Single--cell-9B59B6?style=flat&logo=microscope&logoColor=white)
+Additional Projects
 
-### **EHR Analytics DORIS**
-*Electronic Health Records Analytics Platform*
-- Built analytics platform for clinical data visualization and reporting
-- Implemented data pipelines for real-time EHR data processing
-- Created interactive dashboards for clinical decision support
+CDC Healthcare Streaming ETL
 
-**Tech:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+Synthetic Variant-Calling Benchmark
 
----
+Genomic Foundation Models
 
-## 🌐 Languages
+USAG1 Computational Validation
 
-![English](https://img.shields.io/badge/English-Full%20Professional-3498DB?style=flat&logo=language&logoColor=white)  
-![Bengali](https://img.shields.io/badge/Bengali-Native%20Bilingual-2ECC71?style=flat&logo=translate&logoColor=white)  
-![Urdu](https://img.shields.io/badge/Urdu-Professional-9B59B6?style=flat&logo=language&logoColor=white)  
-![Hindi](https://img.shields.io/badge/Hindi-Professional-E74C3C?style=flat&logo=language&logoColor=white)
+Professional Experience
 
----
+Research Scientist — SCIRED | 2023–Present
 
-## 📊 GitHub Portfolio
+Develop computational biology, biomedical AI, health-data, and scientific machine-learning projects.
 
-![GitHub Stats](https://komarev.com/ghpvc/?username=mtariqi&label=PROFILE%20VIEWS&color=blue)  
-**Total Stars:** ![Stars](https://img.shields.io/badge/14-yellow)  
-**Total Commits:** ![Commits](https://img.shields.io/badge/4.6k-green)  
-**Total PRs:** ![PRs](https://img.shields.io/badge/717-orange)  
-**Contributed to:** ![Contributions](https://img.shields.io/badge/6-purple)
+Design reproducible research pipelines spanning data acquisition, quality control, modeling, evaluation, and visualization.
 
-**Portfolio:** [github.com/mtariqi](https://github.com/mtariqi)
+Build public, documented codebases that connect biological questions with scalable analytics and engineering methods.
 
----
+Operations Officer — Data Science and Automation, Statistics Canada | 2022–2023
 
-## 🎯 Professional Summary
+Supported data-intensive operational workflows, analytical reporting, quality assurance, and process improvement.
 
-As a graduate student in Bioinformatics with extensive experience in data science, machine learning, and biomedical research, I bring a unique combination of computational expertise and domain knowledge in healthcare and life sciences. My background spans clinical data analysis, pharmaceutical research, and AI/ML applications in genomics. I am passionate about leveraging advanced analytics to drive innovation in precision medicine, drug discovery, and healthcare technology.
+Applied Python, SQL, business intelligence, and automation methods in a documentation-controlled public-sector environment.
 
----
+Collaborated across operational and analytical teams to improve reproducibility and decision support.
 
-*References and detailed project portfolio available upon request*
-```
+Data Analyst, Ches Special Risk | 2021–2022
 
+Produced analytical reporting, data-quality checks, and business insights for insurance operations.
+
+Supported structured reporting and stakeholder decision-making using SQL, Excel, and visualization tools.
+
+Clinical and Laboratory Data Experience | 2018–2022
+
+Q2 Solutions (IQVIA) — Laboratory Clinical Data Analyst
+University Health Network — Clinical Research Data Coordinator
+Apotex — Microbiology Laboratory Data Analyst
+
+Worked with clinical, laboratory, and pharmaceutical data in quality- and documentation-controlled settings.
+
+Supported data validation, traceability, study coordination, laboratory documentation, and regulated workflows.
+
+Applied domain knowledge across clinical research, microbiology, pharmaceutical operations, and health data.
+
+Research Experience, Canada and Sweden | 2010–2015
+
+University of Saskatchewan · Simon Fraser University · Umeå Plant Science Centre · MIMS, Umeå University
+
+Conducted molecular biology, microbiology, plant biotechnology, and bioinformatics research.
+
+Used primer design, PCR/qRT-PCR, genetic manipulation, protein analysis, sequence analysis, and scientific documentation.
+
+Investigated post-transcriptional regulation in Vibrio cholerae, including the small RNA VrrA and outer-membrane targets.
+
+Education
+
+MSc, Bioinformatics — Northeastern University | In Progress
+
+Translational bioinformatics, computational biology, machine learning, genomics, and biomedical data analysis.
+
+MSc, Molecular Biology (Bioinformatics) — Umeå University
+
+Graduate research in microbial molecular genetics, RNA regulation, and bioinformatics.
+
+BSc, Biotechnology and Genetic Engineering — Khulna University
+
+Biotechnology, genetics, molecular biology, microbiology, biochemistry, and plant tissue culture.
+
+Additional Education
+
+Advanced Diploma in Data Science
+
+Graduate Certificate in Project Management
+
+Professional coursework in business analytics, machine learning, health informatics, cloud computing, and Microsoft Azure
+
+Publication
+
+Hossain, M. A., Islam, M. T., Islam, M. A., & Akter, S. (2005). In vitro propagation of stevia. Bangladesh Journal of Sugarcane, 24–27, 121–125.
+
+Research Interests
+
+Precision oncology and cancer multi-omics
+
+Bulk, single-cell, and spatial transcriptomics
+
+Biomarker and therapeutic-target discovery
+
+Computational drug discovery and regimen prioritization
+
+Biomedical LLMs, RAG, and agentic AI
+
+Healthcare data engineering and clinical analytics
+
+Trustworthy and explainable machine learning
+
+Scientific ML for environmental and biological systems
+
+<div align="center">
+
+Building reproducible computational systems for biology, medicine, and public health
+
+View Research Portfolio · Explore GitHub Projects · Connect on LinkedIn
+
+</div>
