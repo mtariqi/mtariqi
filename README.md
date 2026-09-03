@@ -8,29 +8,6 @@
 
 **Bioinformatics · Cancer Genomics · Healthcare Data Engineering · Scientific Machine Learning**
 
----
-
-<div align="center">
-
-## 🧬 Research and Open-Source Activity
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/mtariqi/mtariqi/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/mtariqi/mtariqi/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="Animated GitHub contribution graph"
-    src="https://raw.githubusercontent.com/mtariqi/mtariqi/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
-</div>
-```
 [![Profile Views](https://komarev.com/ghpvc/?username=mtariqi&style=for-the-badge&color=0F766E)](https://github.com/mtariqi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdtariqulscired)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-6545-8040)
@@ -259,6 +236,29 @@ I welcome research and open-source collaboration in:
 - Scientific machine learning
 - Reproducible research software
 - Regenerative medicine and stem cell research
+
+---
+
+<div align="center">
+
+## 🧬 Research and Open-Source Activity
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/mtariqi/mtariqi/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/mtariqi/mtariqi/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="Animated GitHub contribution graph"
+    src="https://raw.githubusercontent.com/mtariqi/mtariqi/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+</div>
 
 ---
 
