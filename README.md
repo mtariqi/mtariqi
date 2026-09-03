@@ -30,7 +30,7 @@
 </picture>
 
 </div>
-
+```
 [![Profile Views](https://komarev.com/ghpvc/?username=mtariqi&style=for-the-badge&color=0F766E)](https://github.com/mtariqi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdtariqulscired)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-6545-8040)
