@@ -210,18 +210,17 @@ Reproducible lakehouse and streaming architectures for clinical-trial, public-he
 
 <img
   width="49%"
-  alt="Tariqul Islam's GitHub statistics"
-  src="https://github-readme-stats.vercel.app/api?username=mtariqi&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=0F766E&icon_color=14B8A6&text_color=64748B"
+  alt="GitHub profile statistics"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mtariqi&theme=github"
 />
 
 <img
-  width="37%"
+  width="49%"
   alt="Most-used programming languages"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtariqi&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=0F766E&text_color=64748B"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mtariqi&theme=github"
 />
 
 </div>
-
 ---
 
 ## 🤝 Collaboration
