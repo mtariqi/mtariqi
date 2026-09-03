@@ -231,6 +231,7 @@ I welcome research and open-source collaboration in:
 - Healthcare data engineering
 - Scientific machine learning
 - Reproducible research software
+- Regenerative medicine and stem cell research
 
 ---
 
