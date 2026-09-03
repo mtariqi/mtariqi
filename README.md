@@ -8,6 +8,29 @@
 
 **Bioinformatics · Cancer Genomics · Healthcare Data Engineering · Scientific Machine Learning**
 
+---
+
+<div align="center">
+
+## 🧬 Research and Open-Source Activity
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/mtariqi/mtariqi/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/mtariqi/mtariqi/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="Animated GitHub contribution graph"
+    src="https://raw.githubusercontent.com/mtariqi/mtariqi/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+</div>
+
 [![Profile Views](https://komarev.com/ghpvc/?username=mtariqi&style=for-the-badge&color=0F766E)](https://github.com/mtariqi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdtariqulscired)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-6545-8040)
@@ -208,13 +231,17 @@ Reproducible lakehouse and streaming architectures for clinical-trial, public-he
 
 <div align="center">
 
-<img height="170"
-     alt="GitHub statistics"
-     src="https://github-readme-stats.vercel.app/api?username=mtariqi&show_icons=true&hide_border=true&count_private=true" />
+<img
+  width="49%"
+  alt="Tariqul Islam's GitHub statistics"
+  src="https://github-readme-stats.vercel.app/api?username=mtariqi&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=0F766E&icon_color=14B8A6&text_color=64748B"
+/>
 
-<img height="170"
-     alt="Most-used programming languages"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtariqi&layout=compact&hide_border=true" />
+<img
+  width="37%"
+  alt="Most-used programming languages"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtariqi&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=0F766E&text_color=64748B"
+/>
 
 </div>
 
@@ -237,14 +264,22 @@ I welcome research and open-source collaboration in:
 
 <div align="center">
 
-### Transforming biological and health data into evidence for intelligent therapeutic discovery
+<a href="https://git.io/typing-svg">
+  <img
+    alt="Research mission"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3500&pause=1000&color=0F766E&center=true&vCenter=true&repeat=true&width=900&height=50&lines=Transforming+biological+data+into+therapeutic+evidence;Building+trustworthy+AI+for+precision+medicine;Advancing+reproducible+computational+biology"
+  />
+</a>
 
 [LinkedIn](https://www.linkedin.com/in/mdtariqulscired) ·
 [ORCID](https://orcid.org/0009-0009-6545-8040) ·
 [Portfolio](https://mtariqi.github.io) ·
 [Email](mailto:mtiumea@gmail.com)
 
-<img alt="Footer"
-     src="https://capsule-render.vercel.app/api?type=waving&color=0:1B4332,100:081C15&height=120&section=footer" />
+<img
+  width="100%"
+  alt="Profile footer"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:081C15,50:0F766E,100:14B8A6&height=130&section=footer&animation=twinkling"
+/>
 
 </div>
