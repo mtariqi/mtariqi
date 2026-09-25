@@ -97,6 +97,258 @@ My long-term goal is to build trustworthy computational systems that connect bio
 
 ---
 
+## My Current Research
+
+### Wnt/β-Catenin Signaling, Craniofacial Development, and Skeletal Biology
+
+I am currently conducting collaborative computational biology research with **Professor Wei Hsu**, focusing on the role of **Wnt/β-catenin signaling in craniofacial development, skeletal biology, epithelial differentiation, and osteogenic regulatory programs**.
+
+Professor Hsu's research program is based at the **ADA Forsyth Institute** and is connected with Harvard-affiliated biomedical and stem-cell research activities. My contribution to this collaboration centers on **bioinformatics, RNA-seq analysis, pathway biology, transcription-factor regulation, network analysis, and reproducible computational workflows**.
+
+The current project analyzes RNA-seq data from a **4-control vs. 4-mutant mouse experimental design** to characterize transcriptional changes associated with perturbation of Wnt-related developmental biology.
+
+### RNA-seq and Differential-Expression Analysis
+
+The processed DESeq2 dataset contains:
+
+| Measure | Result |
+|---|---:|
+| Total rows in the differential-expression dataset | 22,444 |
+| Genes retained for analysis after missing-value filtering | 21,730 |
+| Unique genes in the current testing universe | 21,715 |
+| Genes with nominal `p < 0.05` | 1,334 |
+| Downregulated nominal DEGs | 994 |
+| Upregulated nominal DEGs | 340 |
+
+The project intentionally distinguishes between:
+
+- **nominal DEG selection**, used for exploratory biological characterization and sensitivity analyses, and
+- **multiple-testing-adjusted enrichment statistics**, used where appropriate for pathway and transcription-factor analyses.
+
+This distinction is particularly important because the biological interpretation is being developed under several DEG thresholds rather than relying on a single arbitrary cutoff.
+
+### Wnt and Epithelial Biology
+
+A prominent feature of the transcriptional profile is the strong reduction of epithelial, junctional, and cell-adhesion-associated genes.
+
+Examples identified during the analysis include:
+
+- `Krt5`
+- `Krt14`
+- `Dsp`
+- `Pkp1`
+- `Dsg2`
+- `Cdh1`
+
+These changes are being investigated in the context of:
+
+- canonical Wnt/β-catenin signaling,
+- non-canonical Wnt signaling,
+- planar cell polarity,
+- epithelial differentiation,
+- cell-cell junction organization,
+- craniofacial morphogenesis,
+- and tissue-composition effects.
+
+Pathway enrichment analyses have highlighted downregulated programs related to:
+
+- Cell-Cell Junction
+- Apical Junction Complex
+- Tight Junction
+- Cornified Envelope
+
+These results suggest substantial remodeling of epithelial-associated transcriptional programs in the mutant condition.
+
+### Canonical and Non-Canonical Wnt Signaling
+
+The project separately interrogates several branches of Wnt biology:
+
+- **β-catenin-dependent / canonical Wnt signaling**
+- **TCF/LEF-dependent transcription**
+- **β-catenin-independent signaling**
+- **planar cell polarity (PCP)**
+- **Wnt/Ca²⁺ signaling**
+
+This branch-specific analysis is important because changes in Wnt biology cannot necessarily be interpreted from a single pathway score or a small group of canonical markers.
+
+The analysis therefore combines differential expression with ranked gene-set approaches and mechanistic pathway interrogation to determine whether different Wnt branches show distinct transcriptional responses.
+
+### Transcription-Factor Regulatory Analysis
+
+I developed a transcription-factor target-set enrichment workflow using curated regulatory resources including:
+
+- **TRRUST**
+- **ChEA**
+- **Gene Ontology**
+- **WikiPathways**
+
+TF target-set over-representation is evaluated using **one-sided Fisher exact tests** followed by **Benjamini-Hochberg correction for multiple testing**.
+
+Only TF target sets meeting:
+
+`FDR < 0.05`
+
+are included in the current pathway-focused TF network analysis.
+
+Importantly, the underlying DEG pools in this analysis are selected using nominal p-values, so gene-level significance and TF-enrichment significance are treated as separate statistical concepts.
+
+### TF–Wnt Regulatory-Association Network
+
+I developed a regulatory-association network connecting significantly enriched TF target sets with downregulated Wnt-associated DEGs.
+
+Current network summary:
+
+| Measure | Result |
+|---|---:|
+| Wnt annotation genes in testing universe | 412 |
+| Wnt TF–DEG edges displayed | 48 |
+
+The Wnt network contains several transcriptional programs, including Polycomb-associated regulators such as:
+
+- `BMI1`
+- `EZH2`
+- `JARID2`
+- `SUZ12`
+- `RING1B`
+
+Additional TF-associated programs include regulators such as:
+
+- `SOX2`
+- `ZNF217`
+
+The connected Wnt-associated genes include candidates such as:
+
+- `WNT6`
+- `APC2`
+- `SFRP5`
+- `CDH1`
+- `CELSR1`
+- `CELSR2`
+- `CTNND2`
+- `FGF10`
+- `FOXD3`
+- `ITGA3`
+- `CAV1`
+
+The Polycomb factors are visually highlighted as a prespecified biological annotation rather than being assigned greater statistical weight.
+
+These networks are interpreted as **regulatory-association networks**, not direct causal models. An edge indicates that a DEG belongs to an enriched TF target set and overlaps the pathway annotation; it does not by itself establish direct TF-DNA binding, regulatory direction, interaction strength, or causal regulation.
+
+### Osteogenesis Regulatory Network
+
+A complementary analysis investigates TF programs associated with **upregulated osteogenesis-related genes**.
+
+Current network summary:
+
+| Measure | Result |
+|---|---:|
+| Osteogenesis annotation genes in testing universe | 319 |
+| Osteogenesis TF–DEG edges displayed | 23 |
+| TF programs shared with the Wnt network | 2 |
+
+TF-associated programs identified in this network include candidates such as:
+
+- `SP7`
+- `EP300`
+- `PPARG`
+- `IRF8`
+- `PBX`
+- `NUCKS1`
+- `SUZ12`
+- `RING1B`
+
+Associated osteogenic genes include candidates such as:
+
+- `BGLAP`
+- `SPP1`
+- `COL1A2`
+- `COL2A1`
+- `COL11A2`
+- `PDGFRA`
+- `LRP4`
+- `NOTUM`
+- `SGMS2`
+
+The objective is not simply to identify isolated differentially expressed genes, but to determine whether the mutant transcriptome contains coordinated regulatory programs linking Wnt perturbation with skeletal and osteogenic biology.
+
+### Wnt/PCP Mechanistic Analysis
+
+The project also contains a focused mechanistic interrogation of non-canonical Wnt and planar-cell-polarity biology.
+
+One signal identified during this analysis was **Bmp6**, which remained significant after multiple-testing correction in the relevant pathway analysis.
+
+The broader goal is to distinguish:
+
+- pathway-level enrichment,
+- regulatory-program enrichment,
+- individual gene-level differential expression,
+- and experimentally testable mechanistic hypotheses.
+
+### Craniofacial and Skeletal Gene Prioritization
+
+In response to the biological focus of the collaboration, I developed dedicated analyses for genes involved in:
+
+- craniofacial morphogenesis,
+- skeletal development,
+- osteoblast differentiation,
+- extracellular-matrix organization,
+- epithelial-mesenchymal biology,
+- Wnt pathway regulation,
+- and developmental signaling.
+
+This enables the RNA-seq findings to be interpreted specifically in relation to Professor Hsu's research interests in craniofacial and skeletal development rather than relying only on generic pathway enrichment.
+
+### Network and Regulatory Visualization
+
+I am also developing publication-oriented visualization approaches, including:
+
+- TF-centered star networks
+- TF-DEG regulatory-association networks
+- pathway-specific regulatory maps
+- DEG volcano plots
+- pathway enrichment figures
+- ranked gene-set analyses
+- TF-target spider maps
+- source-audited regulatory networks
+
+For the TF-Wnt and osteogenesis networks:
+
+- squares represent TF target programs,
+- circles represent pathway-associated DEGs,
+- node size reflects network degree,
+- edges have constant width,
+- and visual styling is kept separate from statistical evidence.
+
+This prevents graphical properties from being misinterpreted as biological interaction strength.
+
+### Reproducibility and Validation
+
+A major objective of this project is to make the analysis reproducible and publication-ready.
+
+Current validation and sensitivity work includes:
+
+- reconstruction and verification of DEG pools,
+- comparison of nominal-p-value and adjusted-p-value thresholds,
+- ranked GSEA,
+- canonical versus non-canonical Wnt analyses,
+- β-catenin-dependent versus β-catenin-independent signatures,
+- TF enrichment across TRRUST and ChEA,
+- orthology verification,
+- source auditing of TF-target relationships,
+- epithelial-composition sensitivity analysis,
+- and network robustness assessment.
+
+Planned and ongoing validation includes recovery of the original count matrix and re-evaluation of the DESeq2 design, normalization, and experimental metadata.
+
+### Research Objective
+
+The overarching goal of this collaboration is to develop a mechanistically interpretable model connecting:
+
+**Wnt pathway perturbation → transcription-factor programs → epithelial and developmental changes → craniofacial/skeletal and osteogenic phenotypes**
+
+while carefully separating statistical association from experimentally established causality.
+
+The project is being developed as a reproducible computational biology framework that can support future mechanistic experiments and, following completion and collaborator approval, peer-reviewed publication.
 ## 🧪 Selected Scientific Contributions
 
 ### Hybrid-CORE
