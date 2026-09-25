@@ -34,6 +34,8 @@ I currently contribute to cancer-genomics research as a **Bioinformatician at th
 
 Beyond biomedical research, I independently reproduced and extended machine-learning workflows for streamflow prediction and National Water Model bias correction. My **HYDRO-FLOW-AI** project builds on open workflows from the Alabama Water Institute’s NWM-ML project and research involving a University of West Florida researcher, while remaining an independent project with no claim of institutional affiliation.
 
+In addition, I am conducting collaborative computational biology research with Professor Wei Hsu, whose research program at the **ADA Forsyth Institute** is connected with **Harvard-affiliated biomedical and stem-cell research** activities.
+
 My long-term goal is to build trustworthy computational systems that connect biological evidence, clinical data, and artificial intelligence to accelerate scientific discovery and improve patient outcomes.
 
 ---
