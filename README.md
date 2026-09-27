@@ -286,7 +286,7 @@ I welcome research and open-source collaboration in:
 
 [LinkedIn](https://www.linkedin.com/in/mdtariqulscired) ·
 [ORCID](https://orcid.org/0009-0009-6545-8040) ·
-[Portfolio](https://mtariqi.github.io) ·
+[Portfolio](https://mtariqi.github.io) 
 [Email](mailto:mtiumea@gmail.com)
 
 <img
