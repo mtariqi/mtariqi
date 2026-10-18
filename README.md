@@ -20,7 +20,7 @@
 
 ## About Me
 
-I am a **Research Scientist, Bioinformatician, and Data Scientist** working at the intersection of **computational biology, cancer genomics, artificial intelligence, biostatistics, and precision medicine**.
+I am a **Research Scientist, Bioinformatician, and Data Scientist** working at the intersection of **computational biology, cancer genomics, artificial intelligence, biostatistics, regenerative stem cells and precision medicine**.
 
 My research combines genomics, transcriptomics, multi-omics integration, machine learning, and large language models to transform complex biological and health data into evidence for:
 
