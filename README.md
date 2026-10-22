@@ -8,11 +8,55 @@
 
 **Bioinformatics · Cancer Genomics · Healthcare Data Engineering · Scientific Machine Learning**
 
-[![Profile Views](https://komarev.com/ghpvc/?username=mtariqi&style=for-the-badge&color=0F766E)](https://github.com/mtariqi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdtariqulscired)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-6545-8040)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mtiumea@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Research_Portfolio-000000?style=for-the-badge&logo=githubpages)](https://mtariqi.github.io)
+<div align="center">
+
+<img
+  width="1983"
+  height="793"
+  alt="AI-driven computational biology and precision medicine"
+  src="https://github.com/user-attachments/assets/029f7106-3c12-4491-abd7-2a615666f169"
+/>
+
+# 🧬 AI-Driven Computational Biology for Precision Medicine
+
+<strong>
+Bioinformatics · Cancer Genomics · Healthcare Data Engineering · Scientific Machine Learning
+</strong>
+
+<br><br>
+
+<img
+  src="https://komarev.com/ghpvc/?username=mtariqi&label=PROFILE%20VIEWS&color=0F766E&style=for-the-badge"
+  alt="Profile views"
+/>
+
+<a href="https://www.linkedin.com/in/mdtariqulscired">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+
+<a href="https://orcid.org/0009-0009-6545-8040">
+  <img
+    src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"
+    alt="ORCID"
+  />
+</a>
+
+<a href="mailto:mtiumea@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
+</a>
+
+<a href="https://mtariqi.github.io">
+  <img
+    src="https://img.shields.io/badge/Research_Portfolio-000000?style=for-the-badge&logo=githubpages"
+    alt="Research portfolio"
+  />
+</a>
 
 </div>
 
