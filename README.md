@@ -8,17 +8,6 @@
 
 **Bioinformatics · Cancer Genomics · Healthcare Data Engineering · Scientific Machine Learning**
 
-<div align="center">
-
-<img
-  width="1983"
-  height="793"
-  alt="AI-driven computational biology and precision medicine"
-  src="https://github.com/user-attachments/assets/029f7106-3c12-4491-abd7-2a615666f169"
-/>
-
-# 🧬 AI-Driven Computational Biology for Precision Medicine
-
 <strong>
 Bioinformatics · Cancer Genomics · Healthcare Data Engineering · Scientific Machine Learning
 </strong>
