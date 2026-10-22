@@ -1,12 +1,13 @@
 <div align="center">
 
-<img width="1983" height="793"
-     alt="AI-driven computational biology and precision medicine"
-     src="https://github.com/user-attachments/assets/029f7106-3c12-4491-abd7-2a615666f169" />
+<img
+  width="1983"
+  height="793"
+  alt="AI-driven computational biology and precision medicine"
+  src="https://github.com/user-attachments/assets/029f7106-3c12-4491-abd7-2a615666f169"
+/>
 
-# 🧬 AI-Driven Computational Biology for Precision Medicine
-
-**Bioinformatics · Cancer Genomics · Healthcare Data Engineering · Scientific Machine Learning**
+<h1>🧬 AI-Driven Computational Biology for Precision Medicine</h1>
 
 <strong>
 Bioinformatics · Cancer Genomics · Healthcare Data Engineering · Scientific Machine Learning
@@ -14,12 +15,12 @@ Bioinformatics · Cancer Genomics · Healthcare Data Engineering · Scientific M
 
 <br><br>
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=mtariqi&label=Profile%20Views&color=0F766E&style=flat-square"
-    alt="Profile views"
-  />
-</p>
+<img
+  src="https://visitor-badge.laobi.icu/badge?page_id=mtariqi.mtariqi"
+  alt="Profile visitors"
+/>
+
+<br><br>
 
 <a href="https://www.linkedin.com/in/mdtariqulscired">
   <img
@@ -44,7 +45,7 @@ Bioinformatics · Cancer Genomics · Healthcare Data Engineering · Scientific M
 
 <a href="https://mtariqi.github.io">
   <img
-    src="https://img.shields.io/badge/Research_Portfolio-000000?style=for-the-badge&logo=githubpages"
+    src="https://img.shields.io/badge/Research_Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"
     alt="Research portfolio"
   />
 </a>
@@ -52,6 +53,7 @@ Bioinformatics · Cancer Genomics · Healthcare Data Engineering · Scientific M
 </div>
 
 ---
+
 
 ## About Me
 
