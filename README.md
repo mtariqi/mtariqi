@@ -14,10 +14,12 @@ Bioinformatics · Cancer Genomics · Healthcare Data Engineering · Scientific M
 
 <br><br>
 
-<img
-  src="https://komarev.com/ghpvc/?username=mtariqi&label=PROFILE%20VIEWS&color=0F766E&style=for-the-badge"
-  alt="Profile views"
-/>
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=mtariqi&label=Profile%20Views&color=0F766E&style=flat-square"
+    alt="Profile views"
+  />
+</p>
 
 <a href="https://www.linkedin.com/in/mdtariqulscired">
   <img
