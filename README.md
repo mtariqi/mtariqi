@@ -185,14 +185,17 @@ Reproducible lakehouse and streaming architectures for clinical-trial, public-he
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### Single-Cell and Transcriptomics
+### Transcriptomics (Bulk and Single-Cell)
 
+![STAR](https://img.shields.io/badge/STAR-RNA--seq_alignment-6A1B3A?style=flat-square)
+![Salmon](https://img.shields.io/badge/Salmon-quantification-E9967A?style=flat-square)
+![kallisto](https://img.shields.io/badge/kallisto-pseudoalignment-0E7C7B?style=flat-square)
+![DESeq2](https://img.shields.io/badge/DESeq2-1F6FB2?style=flat-square)
+![edgeR](https://img.shields.io/badge/edgeR-2E8B57?style=flat-square)
+![limma](https://img.shields.io/badge/limma-3A7D44?style=flat-square)
 ![Seurat](https://img.shields.io/badge/Seurat-6A1B3A?style=flat-square)
 ![Harmony](https://img.shields.io/badge/Harmony-0E7C7B?style=flat-square)
 ![scDblFinder](https://img.shields.io/badge/scDblFinder-555555?style=flat-square)
-![edgeR](https://img.shields.io/badge/edgeR-2E8B57?style=flat-square)
-![limma](https://img.shields.io/badge/limma-3A7D44?style=flat-square)
-![DESeq2](https://img.shields.io/badge/DESeq2-1F6FB2?style=flat-square)
 ![Bioconductor](https://img.shields.io/badge/Bioconductor-1A81C2?style=flat-square)
 ![GEOquery](https://img.shields.io/badge/GEOquery-B03A5B?style=flat-square)
 ![scRNA-seq](https://img.shields.io/badge/scRNA--seq-10x_Genomics-C48A2C?style=flat-square)
