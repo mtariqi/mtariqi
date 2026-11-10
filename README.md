@@ -183,32 +183,87 @@ Reproducible lakehouse and streaming architectures for clinical-trial, public-he
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### Artificial Intelligence
+### Single-Cell and Transcriptomics
+
+![Seurat](https://img.shields.io/badge/Seurat-6A1B3A?style=flat-square)
+![Harmony](https://img.shields.io/badge/Harmony-0E7C7B?style=flat-square)
+![scDblFinder](https://img.shields.io/badge/scDblFinder-555555?style=flat-square)
+![edgeR](https://img.shields.io/badge/edgeR-2E8B57?style=flat-square)
+![limma](https://img.shields.io/badge/limma-3A7D44?style=flat-square)
+![DESeq2](https://img.shields.io/badge/DESeq2-1F6FB2?style=flat-square)
+![Bioconductor](https://img.shields.io/badge/Bioconductor-1A81C2?style=flat-square)
+![GEOquery](https://img.shields.io/badge/GEOquery-B03A5B?style=flat-square)
+![scRNA-seq](https://img.shields.io/badge/scRNA--seq-10x_Genomics-C48A2C?style=flat-square)
+
+### Genomics and NGS
+
+![GATK](https://img.shields.io/badge/GATK-2E8B57?style=flat-square)
+![BWA](https://img.shields.io/badge/BWA-006699?style=flat-square)
+![DeepVariant](https://img.shields.io/badge/DeepVariant-0F9D58?style=flat-square)
+![TCGA](https://img.shields.io/badge/TCGA-multi--omics-5A3A47?style=flat-square)
+![CPTAC](https://img.shields.io/badge/CPTAC-proteogenomics-7A4A5E?style=flat-square)
+
+### Functional Annotation and Networks
+
+![Gene Ontology](https://img.shields.io/badge/Gene_Ontology-4C7BE5?style=flat-square)
+![WikiPathways](https://img.shields.io/badge/WikiPathways-3B8EA5?style=flat-square)
+![STRING](https://img.shields.io/badge/STRING-1F2A33?style=flat-square)
+![TRRUST](https://img.shields.io/badge/TRRUST-6C5B7B?style=flat-square)
+![ChEA](https://img.shields.io/badge/ChEA-8E6C8A?style=flat-square)
+
+### Statistics and Visualization
+
+![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=flat-square)
+![patchwork](https://img.shields.io/badge/patchwork-555555?style=flat-square)
+![lme4](https://img.shields.io/badge/lme4-mixed_models-2E8B57?style=flat-square)
+
+### Workflows and Reproducibility
+
+![Snakemake](https://img.shields.io/badge/Snakemake-039475?style=flat-square)
+![Nextflow](https://img.shields.io/badge/Nextflow-24C8DD?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![renv](https://img.shields.io/badge/renv-reproducible_R-276DC3?style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+### Machine Learning and Deep Learning
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square)
+
+### Agentic AI and Large Language Models
+
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-multi--agent_systems-6A1B3A?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-retrieval--augmented_generation-0E7C7B?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 ![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=flat-square&logo=amazonaws)
+![Biomedical LLMs](https://img.shields.io/badge/Biomedical-LLMs-B03A5B?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt-engineering-4C7BE5?style=flat-square)
+![LLM Evaluation](https://img.shields.io/badge/LLM-evaluation-555555?style=flat-square)
 
-### Bioinformatics
-
-![GATK](https://img.shields.io/badge/GATK-2E8B57?style=flat-square)
-![BWA](https://img.shields.io/badge/BWA-006699?style=flat-square)
-![DeepVariant](https://img.shields.io/badge/DeepVariant-0F9D58?style=flat-square)
-![Snakemake](https://img.shields.io/badge/Snakemake-039475?style=flat-square)
-![Nextflow](https://img.shields.io/badge/Nextflow-24C8DD?style=flat-square)
-
-### Cloud and Infrastructure
+### Cloud, Data Engineering and Infrastructure
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 
+### Techniques
+
+| Area | Techniques |
+|---|---|
+| **Single-cell transcriptomics** | QC and doublet removal, normalization, batch/donor integration, clustering and UMAP, marker-based cell-type annotation, module scoring, stem-cell population definition |
+| **Differential expression** | Bulk RNA-seq (DESeq2), donor-aware pseudobulk (edgeR quasi-likelihood), mixed-effects models, sequencing-depth confounder adjustment |
+| **Cross-dataset analysis** | Validation of single-cell findings across independent GEO datasets, human–mouse orthology mapping |
+| **Functional analysis** | Gene-set and pathway enrichment, transcription-factor target analysis, evidence-audited regulatory networks |
+| **Genomics and NGS** | Read alignment, variant calling and benchmarking, cancer multi-omics (TCGA, CPTAC), kinase-alteration and drug-target prioritization |
+| **Machine learning and deep learning** | Supervised learning, deep learning, genomic foundation models, transformer-based sequence representation |
+| **Agentic AI and LLMs** | Agentic and multi-agent workflows, retrieval-augmented generation over biomedical literature and evidence, tool-using LLM agents, prompt design, LLM output evaluation, AI-assisted research decision support |
+| **Data engineering** | Lakehouse and streaming ETL pipelines, event-driven processing, cloud infrastructure as code |
+| **Reproducible research** | Version control, containerized and workflow-managed pipelines, locked package environments, automated CI tests, documented scripts |
 ---
 
 ## 📈 Current Research Focus
