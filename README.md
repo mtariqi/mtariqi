@@ -274,6 +274,7 @@ Reproducible lakehouse and streaming architectures for clinical-trial, public-he
 | **Genomics and NGS** | Read alignment, variant calling and benchmarking, cancer multi-omics (TCGA, CPTAC), kinase-alteration and drug-target prioritization |
 | **Machine learning and deep learning** | Supervised learning, deep learning, genomic foundation models, transformer-based sequence representation |
 | **Agentic AI and LLMs** | Agentic and multi-agent workflows, retrieval-augmented generation over biomedical literature and evidence, tool-using LLM agents, prompt design, LLM output evaluation, AI-assisted research decision support |
+| **Bulk RNA-seq** | Splice-aware read alignment (STAR), transcript-level quantification by selective and pseudo-alignment (Salmon, kallisto), gene-level summarization, differential expression (DESeq2, edgeR, limma) |
 | **Data engineering** | Lakehouse and streaming ETL pipelines, event-driven processing, cloud infrastructure as code |
 | **Reproducible research** | Version control, containerized and workflow-managed pipelines, locked package environments, automated CI tests, documented scripts |
 | **Statistical modelling and inference** | Bayesian modelling, Monte Carlo simulation and permutation-based significance testing, bootstrap confidence intervals, mixed-effects and logistic regression, multiple-testing correction (FDR) |
