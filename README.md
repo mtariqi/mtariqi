@@ -92,20 +92,20 @@ My long-term goal is to build trustworthy computational systems that connect bio
 - 🌊 Scientific machine learning for hydrology
 
 ---
-
 ## Featured Research Projects
 
-| Project | Research focus | Repository |
-|---|---|---|
-| **RTK/NRTK TNBC** | Patient-level kinase alterations and drug-target prioritization in triple-negative breast cancer | [View project](https://github.com/mtariqi/rtk_nrtk_tnbc) |
-| **HYDRO-FLOW-AI** | Extreme-aware streamflow prediction and National Water Model bias correction | [View project](https://github.com/mtariqi/HYDRO-FLOW-AI) |
-| **NIH Clinical Trials Lakehouse** | Reproducible healthcare data engineering for clinical-trial analytics | [View project](https://github.com/mtariqi/nih-clinical-trials-lakehouse-pipeline) |
-| **CDC Healthcare Streaming ETL** | Streaming ingestion, validation, transformation, and public-health analytics | [View project](https://github.com/mtariqi/cdc-healthcare-streaming-etl-pipeline) |
-| **TCGA–CPTAC Kafka Platform** | Event-driven processing of large-scale cancer multi-omics data | [View project](https://github.com/mtariqi/tcga-cptac-kafka-bioinformatics) |
-| **Synthetic Variant Calling Benchmark** | Reproducible benchmarking of NGS variant-calling workflows | [View project](https://github.com/mtariqi/synthetic-variant-calling-benchmark) |
-| **Genomic Foundation Models** | Transformer-based representation learning for genomic sequences | [View project](https://github.com/mtariqi/genomic-foundation-models) |
-| **USAG1 Validation** | Computational evidence synthesis and therapeutic-target validation | [View project](https://github.com/mtariqi/USAG1-Validation) |
-
+| Project                                 | Research focus                                                                                   | Repository                                                                        |
+| --------------------------------------- | ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------- |
+| **WLS in Human Dental Pulp Stem Cells** | Single-cell RNA-seq of Gpr177/Wntless, Wnt and Hedgehog genes in DPSCs across four public datasets, with Prof. Wei Hsu (ADA Forsyth Institute) | [View project](https://github.com/mtariqi/dpsc-wls-validation)                    |
+| **WLS in DPSCs: Discovery Analysis**    | Donor-aware single-cell analysis of human dental pulp (GSE164157, 5 donors), with Prof. Wei Hsu (ADA Forsyth Institute) | [View project](https://github.com/mtariqi/dpsc-wls-human-scRNAseq)                |
+| **RTK/NRTK TNBC**                       | Patient-level kinase alterations and drug-target prioritization in triple-negative breast cancer | [View project](https://github.com/mtariqi/rtk_nrtk_tnbc)                          |
+| **HYDRO-FLOW-AI**                       | Extreme-aware streamflow prediction and National Water Model bias correction                     | [View project](https://github.com/mtariqi/HYDRO-FLOW-AI)                          |
+| **NIH Clinical Trials Lakehouse**       | Reproducible healthcare data engineering for clinical-trial analytics                            | [View project](https://github.com/mtariqi/nih-clinical-trials-lakehouse-pipeline) |
+| **CDC Healthcare Streaming ETL**        | Streaming ingestion, validation, transformation, and public-health analytics                     | [View project](https://github.com/mtariqi/cdc-healthcare-streaming-etl-pipeline)  |
+| **TCGA–CPTAC Kafka Platform**           | Event-driven processing of large-scale cancer multi-omics data                                   | [View project](https://github.com/mtariqi/tcga-cptac-kafka-bioinformatics)        |
+| **Synthetic Variant Calling Benchmark** | Reproducible benchmarking of NGS variant-calling workflows                                       | [View project](https://github.com/mtariqi/synthetic-variant-calling-benchmark)    |
+| **Genomic Foundation Models**           | Transformer-based representation learning for genomic sequences                                  | [View project](https://github.com/mtariqi/genomic-foundation-models)              |
+| **USAG1 Validation**                    | Computational evidence synthesis and therapeutic-target validation                               | [View project](https://github.com/mtariqi/USAG1-Validation)                       |
 ---
 
 ## 🌊 HYDRO-FLOW-AI
