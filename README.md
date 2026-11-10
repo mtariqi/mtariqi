@@ -218,6 +218,9 @@ Reproducible lakehouse and streaming architectures for clinical-trial, public-he
 ![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=flat-square)
 ![patchwork](https://img.shields.io/badge/patchwork-555555?style=flat-square)
 ![lme4](https://img.shields.io/badge/lme4-mixed_models-2E8B57?style=flat-square)
+![Stan](https://img.shields.io/badge/Stan-B2001D?style=flat-square)
+![brms](https://img.shields.io/badge/brms-276DC3?style=flat-square)
+![PyMC](https://img.shields.io/badge/PyMC-3776AB?style=flat-square)
 
 ### Workflows and Reproducibility
 
@@ -266,6 +269,7 @@ Reproducible lakehouse and streaming architectures for clinical-trial, public-he
 | **Agentic AI and LLMs** | Agentic and multi-agent workflows, retrieval-augmented generation over biomedical literature and evidence, tool-using LLM agents, prompt design, LLM output evaluation, AI-assisted research decision support |
 | **Data engineering** | Lakehouse and streaming ETL pipelines, event-driven processing, cloud infrastructure as code |
 | **Reproducible research** | Version control, containerized and workflow-managed pipelines, locked package environments, automated CI tests, documented scripts |
+| **Statistical modelling and inference** | Bayesian modelling, Monte Carlo simulation and permutation-based significance testing, bootstrap confidence intervals, mixed-effects and logistic regression, multiple-testing correction (FDR) |
 ---
 
 ## 📈 Current Research Focus
